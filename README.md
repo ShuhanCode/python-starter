@@ -4,12 +4,11 @@
 -   [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
 -   [Kaggle Learn Python & Intro to Machine Learning](https://www.kaggle.com/learn)
 
-##  LEARN PYTHON (for blender scripting)
+##  More practice
+-   [Automate Your Life With Python](https://www.udemy.com/course/automate-your-life-with-python/)
+-   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
+-   [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+-   [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
+-   [Complete Data Structures and Algorithms: Software Interviews](https://www.udemy.com/course/data-structures-and-algorithms-software-interviews/)
 
--   [Udacity programming foundations in python](https://www.udacity.com/course/programming-foundations-with-python--ud036/)
--   [an intro to interactive computing in python, coursera (Rice U)](https://www.coursera.org/learn/interactive-python-1)
--   [blender API](https://www.blender.org/api/blender_python_api_current/)
--   [execute pyhton scripts in blender from sublime text](https://github.com/svenfraeys/SublimeBlenderAddon)
--   [python blender api autocomplete for sublime text](https://github.com/svenfraeys/SublimeBlender)
--   [intro to scripting blender using python](https://www.youtube.com/watch?v=hxGdVzRRhmE)
 
