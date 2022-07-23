@@ -1,4 +1,4 @@
-# PYTHON (for blender scripting)
+# [PYTHON (for blender scripting)](https://socalledsound.github.io/gap2020/)
 
 ## Pre-Course Work
 -   [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
@@ -70,7 +70,7 @@
 ##  A FEW BOOKS TO READ
 (available from chestnut shares)
 
--   [Bernard Suits, The Grasshopper](http://www.goodreads.com/book/show/803547.The_Grasshopper?from_search=true
+-   [Bernard Suits, The Grasshopper](http://www.goodreads.com/book/show/803547.The_Grasshopper?from_search=true)
 -   [Mary Flanagan, Critical Play](http://www.goodreads.com/book/show/6847781-critical-play?from_search=true)
 -   [Jane McGonigal, Reality Is Broken](http://www.goodreads.com/book/show/7821348-reality-is-broken)
 -   [Alexander Galloway, Gaming](http://www.goodreads.com/book/show/983813.Gaming?from_search=true)
