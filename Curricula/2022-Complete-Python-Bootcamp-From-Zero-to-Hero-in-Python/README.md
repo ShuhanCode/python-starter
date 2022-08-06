@@ -193,7 +193,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   1.  [Player Class](.)  
   1.  [Game Logic - Part One](contents/90_Game-Logic-Part-One.md)  
   1.  [Game Logic - Part Two](contents/91_Game-Logic-Part-Two.md)  
-  1.  [Game Logic - Part Three](.)  
+  1.  [Game Logic - Part Three](contents/92_Game-Logic-Part-Three.md)  
   1.  [Milestone Project 2 Overview](.)  
   1.  [Solution Walkthrough - Card and Deck classes](.)  
   1.  [Solution Walkthrough - Hand and Chip Classes](.)  
