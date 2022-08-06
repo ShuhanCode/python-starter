@@ -191,7 +191,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   1.  [Card Class](.)  
   1.  [Deck Class](.)  
   1.  [Player Class](.)  
-  1.  [Game Logic - Part One](.)  
+  1.  [Game Logic - Part One](contents/90_Game-Logic-Part-One.md)  
   1.  [Game Logic - Part Two](.)  
   1.  [Game Logic - Part Three](.)  
   1.  [Milestone Project 2 Overview](.)  
