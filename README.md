@@ -1,7 +1,8 @@
 # PYTHON (for blender scripting)
 
 ## Pre-Course Work
--   [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
+-   [2022 Complete Python Bootcamp From Zero to Hero in Python](Curricula/2022-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/)
+    -   [Course video](https://www.udemy.com/course/complete-python-bootcamp)
 -   [Kaggle Learn Python & Intro to Machine Learning](https://www.kaggle.com/learn)
 
 ##  More practice
