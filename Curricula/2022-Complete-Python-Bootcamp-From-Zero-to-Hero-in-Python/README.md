@@ -28,8 +28,8 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   1.  [Auto-Welcome Message](contents/1_Auto-Welcome-Message.md)
   1.  [Course Introduction](contents/2_Course-Introduction.md)
   1.  [Course Curriculum Overview](contents/3_Course-Curriculum-Overview.md)
-  1.  [Why Python?](.)
-  1.  [Course FAQs](.)
+  1.  [Why Python?](./contents/4_Why-Python%3F.md)
+  1.  [Course FAQs](./contents/5_Course-FAQs.md)
 </details>
 
 <details>
