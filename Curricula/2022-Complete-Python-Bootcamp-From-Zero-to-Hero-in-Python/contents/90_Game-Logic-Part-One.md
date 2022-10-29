@@ -26,3 +26,7 @@
 ---
 ![](../imgs/90.13_Game-Logic-Part-One.png)
 ---
+
+
+---
+[Previous](.) | [Next](./91_Game-Logic-Part-Two.md)

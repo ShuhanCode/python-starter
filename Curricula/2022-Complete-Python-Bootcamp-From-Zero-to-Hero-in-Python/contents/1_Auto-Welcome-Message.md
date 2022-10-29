@@ -25,4 +25,4 @@ Let's do this, I'll see you at the next lecture!
 Jose
 
 ---
-[Previous](../README.md) | [Next](./)
+[Previous](../README.md) | [Next](./2_Course-Introduction.md)

@@ -26,7 +26,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   <summary>Section 1: Course Overview</summary>
 
   1.  [Auto-Welcome Message](contents/1_Auto-Welcome-Message.md)
-  1.  [Course Introduction](.)
+  1.  [Course Introduction](contents/2_Course-Introduction.md)
   1.  [Course Curriculum Overview](.)
   1.  [Why Python?](.)
   1.  [Course FAQs](.)
