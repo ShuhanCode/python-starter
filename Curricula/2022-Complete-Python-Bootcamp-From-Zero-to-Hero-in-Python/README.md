@@ -28,15 +28,15 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   1.  [Auto-Welcome Message](contents/1_Auto-Welcome-Message.md)
   1.  [Course Introduction](contents/2_Course-Introduction.md)
   1.  [Course Curriculum Overview](contents/3_Course-Curriculum-Overview.md)
-  1.  [Why Python?](./contents/4_Why-Python%3F.md)
-  1.  [Course FAQs](./contents/5_Course-FAQs.md)
+  1.  [Why Python?](contents/4_Why-Python%3F.md)
+  1.  [Course FAQs](contents/5_Course-FAQs.md)
 </details>
 
 <details>
   <summary>Section 2: Python Setup</summary>
 
-  6.  [Command Line Basics](.)
-  1.  [Installing Python (Step by Step)](.)
+  6.  [Command Line Basics](contents/6_Command-Line-Basics.md)
+  1.  [Installing Python (Step by Step)](contents/7_Installing-Python-(Step-by-Step).md)
   1.  [Running Python Code](.)
   1.  [Getting the Notebooks and the Course Material](.)
   1.  [Git and Github Overview (Optional)](.)
