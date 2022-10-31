@@ -263,4 +263,4 @@ I'll see you there.
 
 
 ---
-[Previous](./13_Numbers-FAQ.md) | [Next](.)
+[Previous](./13_Numbers-FAQ.md) | [Next](./15_Introduction-to-Strings.md)

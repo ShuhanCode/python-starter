@@ -51,7 +51,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   13. [Numbers - FAQ](contents/13_Numbers-FAQ.md)  
   -   [Quiz 1: Numbers Quiz](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/178870#learning-tools)
   14. [Variable Assignments](contents/14_Variable-Assignments.md)
-  1.  [Introduction to Strings](.)
+  1.  [Introduction to Strings](contents/15_Introduction-to-Strings.md)
   -   [Coding Exercise 2: Quick Print Check](.)
   16. [Indexing and Slicing with Strings](.)
   -   [Coding Exercise 3: String Indexing](.) <br /-
