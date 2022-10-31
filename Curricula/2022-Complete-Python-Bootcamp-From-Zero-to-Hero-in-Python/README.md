@@ -46,14 +46,17 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   <summary>Section 3: Python Object and Data Structure Basics</summary>
 
   11. [Command Line Basics](contents/11_Introduction-to-Python-Data-Types.md)
-  1.  [Python Numbers](contents/12_Python-Numbers.md)
+  12. [Python Numbers](contents/12_Python-Numbers.md)
+  -   [12-Numbers.ipynb](contents/12-Numbers.ipynb)
   -   [Coding Exercise 1: Numbers: Simple Arithmetic](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4394702#learning-tools)
   13. [Numbers - FAQ](contents/13_Numbers-FAQ.md)  
   -   [Quiz 1: Numbers Quiz](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/178870#learning-tools)
   14. [Variable Assignments](contents/14_Variable-Assignments.md)
+  -   [14-Variable Assignment.ipynb](contents/14-Variable%20Assignment.ipynb)
   1.  [Introduction to Strings](contents/15_Introduction-to-Strings.md)
-  -   [Coding Exercise 2: Quick Print Check](.)
-  16. [Indexing and Slicing with Strings](.)
+  -   [Coding Exercise 2: Quick Print Check](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4391638#learning-tools)
+  16. [Indexing and Slicing with Strings](contents/16_Indexing-and-Slicing-with-Strings.md)
+  -   [16-Strings.ipynb](contents/16-Strings.ipynb)
   -   [Coding Exercise 3: String Indexing](.) <br /-
   -   [Coding Exercise 4: String Slicing](.)
   17. [String Properties and Methods](.)
