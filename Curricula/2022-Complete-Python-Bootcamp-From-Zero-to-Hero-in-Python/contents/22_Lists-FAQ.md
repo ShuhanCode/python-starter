@@ -8,4 +8,4 @@ You would just add another set of brackets for indexing the nested list, for exa
 
 
 ---
-[Previous](./21_Lists-in-Python.md) | [Next](.)
+[Previous](./21_Lists-in-Python.md) | [Next](./23_Dictionaries-in-Python.md)
