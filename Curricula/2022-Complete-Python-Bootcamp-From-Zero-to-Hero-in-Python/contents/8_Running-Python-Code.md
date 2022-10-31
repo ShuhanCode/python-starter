@@ -537,4 +537,4 @@ It's time to actually learn Python.
 
 
 ---
-[Previous](./7_Installing-Python-(Step-by-Step).md) | [Next](.)
+[Previous](./7_Installing-Python-(Step-by-Step).md) | [Next](./9_Getting-the-Notebooks-and-the-Course-Material.md)
