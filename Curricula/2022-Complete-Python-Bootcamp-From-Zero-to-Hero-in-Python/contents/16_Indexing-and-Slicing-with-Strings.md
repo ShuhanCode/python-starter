@@ -276,4 +276,4 @@ We'll see it there.
 
 
 ---
-[Previous](./15_Introduction-to-Strings.md) | [Next](.)
+[Previous](./15_Introduction-to-Strings.md) | [Next](./17_String-Properties-and-Methods.md)
