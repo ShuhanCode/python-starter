@@ -87,4 +87,4 @@ We'll see you at the next lecture.
 -   [https://github.com/Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 
 ---
-[Previous](./8_Running-Python-Code.md) | [Next](.)
+[Previous](./8_Running-Python-Code.md) | [Next](./10_Git-and-Github-Overview-(Optional).md)

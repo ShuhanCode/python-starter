@@ -39,7 +39,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   1.  [Installing Python (Step by Step)](contents/7_Installing-Python-(Step-by-Step).md)
   1.  [Running Python Code](contents/8_Running-Python-Code.md)
   1.  [Getting the Notebooks and the Course Material](contents/9_Getting-the-Notebooks-and-the-Course-Material.md)
-  1.  [Git and Github Overview (Optional)](.)
+  1.  [Git and Github Overview (Optional)](contents/10_Git-and-Github-Overview-(Optional).md)
 </details>
 
 <details>
