@@ -353,4 +353,4 @@ So let's go ahead and cover that in the next lecture.
 We'll see you there.
 
 ---
-[Previous](./16_Indexing-and-Slicing-with-Strings.md) | [Next](.)
+[Previous](./16_Indexing-and-Slicing-with-Strings.md) | [Next](./18_Strings-FAQ.md)

@@ -61,7 +61,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   -   [Coding Exercise 3: String Indexing](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4394766#learning-tools) <br />
   -   [Coding Exercise 4: String Slicing](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4394992#learning-tools)
   17. [String Properties and Methods](contents/17_String-Properties-and-Methods.md)
-  18. [Strings -FAQ](.)  
+  18. [Strings -FAQ](./contents/18_Strings-FAQ.md)  
   -   [Quiz 2: Strings Quiz](.)
   19. [Print Formatting with Strings](.)  
   1.  [Print Formatting FAQs](.)  
