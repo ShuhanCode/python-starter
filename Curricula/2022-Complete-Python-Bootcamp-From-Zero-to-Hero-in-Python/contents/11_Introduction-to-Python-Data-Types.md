@@ -137,6 +137,6 @@ I'll see you at the next lecture.
 
 
 ---
-[Previous](./10_Git-and-Github-Overview-(Optional).md) | [Next](.)
+[Previous](./10_Git-and-Github-Overview-(Optional).md) | [Next](./12_Python-Numbers.md)
 
 
