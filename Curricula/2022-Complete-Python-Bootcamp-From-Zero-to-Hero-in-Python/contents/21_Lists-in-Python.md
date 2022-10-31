@@ -9,4 +9,4 @@
 </details> 
 
 ---
-[Previous](./20_Print-Formatting-FAQs.md) | [Next](.)
+[Previous](./20_Print-Formatting-FAQs.md) | [Next](./22_Lists-FAQ.md)
