@@ -19,3 +19,9 @@ Since we are using Jupyter Notebooks, once you so the import, all cells will req
 ### HERE IS AN AWESOME SOURCE FOR PRINT FORMATTING:
 
 https://pyformat.info/
+
+
+
+
+---
+[Previous](./19_Print-Formatting-with-Strings.md) | [Next](./21_Lists-in-Python.md)

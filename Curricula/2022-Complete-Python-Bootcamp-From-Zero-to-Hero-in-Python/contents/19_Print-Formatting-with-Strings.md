@@ -50,4 +50,4 @@ print ("The {q} {b} {f}".format(f = 'fox', b = 'brown', q = 'quick'))
 </details>
 
 ---
-[Previous](./18_Strings-FAQ.md) | [Next](.)
+[Previous](./18_Strings-FAQ.md) | [Next](./20_Print-Formatting-FAQs.md)

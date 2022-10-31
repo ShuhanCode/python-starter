@@ -66,7 +66,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   19. [Print Formatting with Strings](contents/19_Print-Formatting-with-Strings.md)  
   1.  [Print Formatting FAQs](contents/20_Print-Formatting-FAQs.md)  
   -   [Coding Exercise 5: Print Formatting](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4395098#learning-tools)
-  21. [Lists in Python](.) 
+  21. [Lists in Python](contents/21_Lists-in-Python.md) 
   -   [Coding Exercise 6: Lists](.)
   22. [Lists - FAQ](.)
   -   [Quiz 3: Lists Quiz](.)  
