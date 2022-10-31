@@ -14,4 +14,4 @@ You can use the hashtag # to create comments in your code
 
 
 ---
-[Previous](./17_String-Properties-and-Methods.md) | [Next](.)
+[Previous](./17_String-Properties-and-Methods.md) | [Next](./19_Print-Formatting-with-Strings.md)
