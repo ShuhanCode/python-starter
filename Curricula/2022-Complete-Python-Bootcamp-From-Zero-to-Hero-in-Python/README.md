@@ -48,7 +48,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   11. [Command Line Basics](contents/11_Introduction-to-Python-Data-Types.md)
   1.  [Python Numbers](contents/12_Python-Numbers.md)
   -   [Coding Exercise 1: Numbers: Simple Arithmetic](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4394702#learning-tools)
-  13. [Numbers - FAQ](.)  
+  13. [Numbers - FAQ](contents/13_Numbers-FAQ.md)  
   -   [Quiz 1: Numbers Quiz](.)
   14. [Variable Assignments](.)
   1.  [Introduction to Strings](.)

@@ -142,4 +142,4 @@ We'll see you there at the next lecture.
 
 
 ---
-[Previous](./11_Introduction-to-Python-Data-Types.md) | [Next](.)
+[Previous](./11_Introduction-to-Python-Data-Types.md) | [Next](./13_Numbers-FAQ.md)
