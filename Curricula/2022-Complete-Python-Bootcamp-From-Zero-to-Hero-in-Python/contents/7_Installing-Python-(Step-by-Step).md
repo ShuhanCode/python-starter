@@ -735,5 +735,5 @@ If that being said, let's move on to the next lecture and really dive into runni
 I'll see you there.
 
 ---
-[Previous](./6_Command-Line-Basics.md) | [Next](.)
+[Previous](./6_Command-Line-Basics.md) | [Next](./8_Running-Python-Code.md)
 

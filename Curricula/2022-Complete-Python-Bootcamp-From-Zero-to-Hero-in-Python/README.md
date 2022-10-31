@@ -37,7 +37,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 
   6.  [Command Line Basics](contents/6_Command-Line-Basics.md)
   1.  [Installing Python (Step by Step)](contents/7_Installing-Python-(Step-by-Step).md)
-  1.  [Running Python Code](.)
+  1.  [Running Python Code](contents/8_Running-Python-Code.md)
   1.  [Getting the Notebooks and the Course Material](.)
   1.  [Git and Github Overview (Optional)](.)
 </details>
