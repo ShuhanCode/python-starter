@@ -78,7 +78,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   -   [Quiz 5: Tuples Quiz](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/178926#learning-tools)
   26. [Sets in Python](contents/26_Sets-in-Python.md) 
   -   [Coding Exercise 8: Sets](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4395144#learning-tools) 
-  27. [Booleans in Python](.)
+  27. [Booleans in Python](contents/27_Booleans-in-Python.md)
   -   [Quiz 6: Sets and Booleans Quiz](.)
   28. [I/O with Basic Files in Python](.)
   -   [Coding Exercise 9: File I/O](.)
