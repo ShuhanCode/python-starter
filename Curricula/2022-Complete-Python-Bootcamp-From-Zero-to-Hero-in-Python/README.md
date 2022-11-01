@@ -81,8 +81,8 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   27. [Booleans in Python](contents/27_Booleans-in-Python.md)
   -   [Quiz 6: Sets and Booleans Quiz](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/179156#learning-tools)
   28. [I/O with Basic Files in Python](contents/28_IO-with-Basic-Files-in-Python.md)
-  -   [Coding Exercise 9: File I/O](.)
-  29. [Resources for More Basic Practice](.)
+  -   [Coding Exercise 9: File I/O](https://www.udemy.com/course/complete-python-bootcamp/learn/quiz/4395204#learning-tools)
+  29. [Resources for More Basic Practice](contents/29_Resources-for-More-Basic-Practice.md)
   1.  [Python Objects and Data Structures Assessment Test Overview](.)
   1.  [Python Objects and Data Structures Assessment Test Solutions](.)
 </details>

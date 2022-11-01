@@ -10,4 +10,4 @@
 
 
 ---
-[Previous](./27_Booleans-in-Python.md) | [Next](.)
+[Previous](./27_Booleans-in-Python.md) | [Next](./29_Resources-for-More-Basic-Practice.md)
