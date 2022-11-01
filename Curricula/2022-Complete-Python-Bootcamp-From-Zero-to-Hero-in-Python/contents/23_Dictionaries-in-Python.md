@@ -11,4 +11,4 @@
 
 
 ---
-[Previous](./22_Lists-FAQ.md) | [Next](.)
+[Previous](./22_Lists-FAQ.md) | [Next](./24_Dictionaries-FAQ.md)
