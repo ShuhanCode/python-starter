@@ -9,4 +9,4 @@ Dictionaries are mappings and do not retain order! If you do want the capabiliti
 
 
 ---
-[Previous](./23_Dictionaries-in-Python.md) | [Next](.)
+[Previous](./23_Dictionaries-in-Python.md) | [Next](./25_Tuples-with-Python.md)
