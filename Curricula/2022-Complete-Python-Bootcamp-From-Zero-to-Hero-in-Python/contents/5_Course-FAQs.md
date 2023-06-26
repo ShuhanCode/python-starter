@@ -1,6 +1,8 @@
 #  5. Course FAQs
 
-##  Course FAQs:
+
+<details>
+  <summary> Section 1: Course Overview - 5. Course FAQs </summary>
 
 Note: Many of these FAQs pertain to Notebooks, Anaconda, and Python. All of which we will discuss in Section 2 with video content. We have videos going over all about Python and the installation process. This FAQ is just here as a reference for you to visit whenever you wish. If you want to continue with the course and the install procedure, continue on to the next lecture. Thanks!
 
@@ -64,5 +66,7 @@ For more questions on certification, please email support@udemy.com
 https://drive.google.com/drive/folders/1CKqOQzst1cGURXGiRVivi2Xsc0n-X8CR?usp=sharing
 
 
+</details>
+
 ---
-[Previous](./4_Why-Python%3F.md) | [Next](.)
+[Previous](./4_Why-Python%3F.md) | [Next](./6_Command-Line-Basics.md)

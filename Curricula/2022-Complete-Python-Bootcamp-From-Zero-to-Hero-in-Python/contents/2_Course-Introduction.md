@@ -1,14 +1,18 @@
 # 2. Course Introduction
 
-![2.1_Course-Introduction](../imgs/2.1_Course-Introduction.png)
----
-![2.2_Course-Introduction.png](../imgs/2.2_Course-Introduction.png)
----
-![2.3_Course-Introduction.png](../imgs/2.3_Course-Introduction.png)
----
-![2.4_Course-Introduction.png](../imgs/2.4_Course-Introduction.png)
----
 
+<details>
+  <summary> Section 1: Course Overview - 2. Course Introduction </summary>
+
+<p align="center" >
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/2.1_Course-Introduction.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/2.2_Course-Introduction.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/2.3_Course-Introduction.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/2.4_Course-Introduction.png" width="90%" > 
+
+</p> 
+
+</details>
 
 
 

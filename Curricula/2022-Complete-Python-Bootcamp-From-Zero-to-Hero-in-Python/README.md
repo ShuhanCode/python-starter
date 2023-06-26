@@ -1,6 +1,6 @@
-# 2022 Complete Python Bootcamp From Zero to Hero in Python
+# The Complete Python Bootcamp From Zero to Hero in Python
 
-- [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games
 
@@ -23,7 +23,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 23 sections • 155 lectures • 22h 13m total length
 
 <details>
-  <summary>Section 1: Course Overview</summary>
+  <summary> Section 1: Course Overview </summary>
 
   1.  [Auto-Welcome Message](contents/1_Auto-Welcome-Message.md)
   1.  [Course Introduction](contents/2_Course-Introduction.md)
