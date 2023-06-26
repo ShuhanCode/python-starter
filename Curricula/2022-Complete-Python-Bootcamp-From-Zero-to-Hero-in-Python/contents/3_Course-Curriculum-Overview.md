@@ -1,7 +1,7 @@
 #  3. Course Curriculum Overview
 
 <details>
-  <summary> Section 2: Setting Up the Environment - 6. Things to Do After Installing Ubuntu </summary>
+  <summary> Section 1: Course Overview - 3. Course Curriculum Overview </summary>
 
 <p align="center" >
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/3.0_Course-Curriculum-Overview.png" width="90%" > 
@@ -34,10 +34,10 @@
 
 </p> 
 
+</details>
+
 
 ##  Resources for this lecture
 
----
 
----
-[Previous](./2_Course-Introduction.md) | [Next](.)
+[Previous](./2_Course-Introduction.md) | [Next](./4_Why-Python%3F.md)

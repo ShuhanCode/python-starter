@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary> Section 2: Setting Up the Environment - 6. Things to Do After Installing Ubuntu </summary>
+  <summary> Section 1: Course Overview - 2. Course Introduction </summary>
 
 <p align="center" >
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/2.1_Course-Introduction.png" width="90%" > 
