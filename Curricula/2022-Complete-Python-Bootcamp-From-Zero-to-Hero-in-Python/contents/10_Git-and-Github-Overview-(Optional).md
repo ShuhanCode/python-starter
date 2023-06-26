@@ -4,6 +4,7 @@
 
 ##  Resources for this lecture
 
+-   [Slides: 000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
 
 -   [Git Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
 

@@ -39,5 +39,7 @@
 
 ##  Resources for this lecture
 
+-   [Slides: 000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
+
 
 [Previous](./2_Course-Introduction.md) | [Next](./4_Why-Python%3F.md)
