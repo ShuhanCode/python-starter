@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](./31_Python-Objects-and-Data-Structures-Assessment-Test-Solutions.md) | [Next](./32_Comparison-Operators-in-Python.md)
+[Previous](./31_Python-Objects-and-Data-Structures-Assessment-Test-Solutions.md) | [Next](./33_Chaining-Comparison-Operators-in-Python-with-Logical-Operators.md)

@@ -5,7 +5,7 @@
 -   [Lavner](./Curricula/Lavner/README.md)
 
 ## Pre-Course Work
--   [2022 Complete Python Bootcamp From Zero to Hero in Python](Curricula/2022-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/)
+-   [The Complete Python Bootcamp From Zero to Hero in Python](Curricula/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/)
     -   [Course video](https://www.udemy.com/course/complete-python-bootcamp)
 -   [Kaggle Learn Python & Intro to Machine Learning](https://www.kaggle.com/learn)
 
