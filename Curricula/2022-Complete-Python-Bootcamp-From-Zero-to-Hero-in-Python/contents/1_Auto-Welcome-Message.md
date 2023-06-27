@@ -1,5 +1,8 @@
 # 1. Auto-Welcome Message
 
+<details>
+  <summary> Section 1: Course Overview </summary>
+
 Hello and welcome to the course! This is just a quick automatic message with some useful tips, the next video goes over a lot of this as well.
 
 1. Please watch the course overview lecture, lots of useful info there!
@@ -24,5 +27,12 @@ Let's do this, I'll see you at the next lecture!
 
 Jose
 
+</details>
+
+##  Resources for this lecture
+
+-   [Slides: 000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
+
 ---
+
 [Previous](../README.md) | [Next](./2_Course-Introduction.md)

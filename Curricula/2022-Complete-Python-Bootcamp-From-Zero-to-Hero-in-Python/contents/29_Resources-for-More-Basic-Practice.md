@@ -1,5 +1,8 @@
 #  29. Resources for More Basic Practice
 
+<details>
+  <summary> 29. Resources for More Basic Practice </summary>
+
 Before you begin your assessment, I wanted to point out some helpful links for practice (don't worry about being able to do these exercises, I just want you to be aware of the links so you can visit them later, since we still haven't discussed functions, you won't be able to utilize a lot of these resources yet!):
 
 **Basic Practice:**
@@ -22,7 +25,14 @@ https://www.reddit.com/r/dailyprogrammer
 
 http://www.pythonchallenge.com/
 
+</details>
+
+## Resources for this lecture
+
+
+-   [Slides: 00-Python Object and Data Structure Basics](https://docs.google.com/presentation/d/1lMiOnSVp1dbTOOLMXJXqDyUJz5-k7n-rVPgQtMj7wcA/edit#slide=id.g2586a91ea0_0_101)
 
 
 ---
-[Previous](./28_IO-with-Basic-Files-in-Python.md) | [Next](.)
+
+[Previous](./28_IO-with-Basic-Files-in-Python.md) | [Next](./30_Python-Objects-and-Data-Structures-Assessment-Test-Overview.md)

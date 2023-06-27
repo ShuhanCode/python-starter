@@ -4,7 +4,7 @@
 <details>
   <summary> Section 1: Course Overview - 5. Course FAQs </summary>
 
-Note: Many of these FAQs pertain to Notebooks, Anaconda, and Python. All of which we will discuss in Section 2 with video content. We have videos going over all about Python and the installation process. This FAQ is just here as a reference for you to visit whenever you wish. If you want to continue with the course and the install procedure, continue on to the next lecture. Thanks!
+**Note: Many of these FAQs pertain to Notebooks, Anaconda, and Python. All of which we will discuss in Section 2 with video content. We have videos going over all about Python and the installation process. This FAQ is just here as a reference for you to visit whenever you wish. If you want to continue with the course and the install procedure, continue on to the next lecture. Thanks!**
 
 **1. Where can I find the Jupyter Notebooks for the Course?**
 
@@ -67,6 +67,10 @@ https://drive.google.com/drive/folders/1CKqOQzst1cGURXGiRVivi2Xsc0n-X8CR?usp=sha
 
 
 </details>
+
+##  Resources for this lecture
+
+-   [Slides: 000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
 
 ---
 [Previous](./4_Why-Python%3F.md) | [Next](./6_Command-Line-Basics.md)

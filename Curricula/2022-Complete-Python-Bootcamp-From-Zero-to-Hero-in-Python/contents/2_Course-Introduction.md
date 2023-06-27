@@ -18,9 +18,7 @@
 
 ##  Resources for this lecture
 
----
-
--   [000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
+-   [Slides: 000-Course-Overview-and Installs](https://docs.google.com/presentation/d/1KBNgNB_JnuXtqpz7Tk7PBinCDteB7pmpeRwZQYqODo0/edit#slide=id.p)
 
 ---
 [Previous](./1_Auto-Welcome-Message.md) | [Next](./3_Course-Curriculum-Overview.md)
