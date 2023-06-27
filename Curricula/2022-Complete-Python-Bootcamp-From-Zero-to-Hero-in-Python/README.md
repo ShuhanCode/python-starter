@@ -69,239 +69,227 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 4: Python Comparison Operators</summary>
+  <summary> Section 4: Python Comparison Operators </summary>
 
-  -   [32. Comparison Operators in Python](.)
-  -   [33. Chaining Comparison Operators in Python with Logical Operators](.)
-  >   [Quiz 7: Comparison Operators Quiz](.)
+  -   [32. Comparison Operators in Python](contents/32_Comparison-Operators-in-Python.md)
+  -   [33. Chaining Comparison Operators in Python with Logical Operators](contents/33_Chaining-Comparison-Operators-in-Python-with-Logical-Operators.md)
 </details>
 
 <details>
   <summary>Section 5: Python Statements</summary>
 
-  -   [34. If Elif and Else Statements in Python](.)
-  -   [35. For Loops in Python](.)  
-  -   [36. While Loops in Python](.)  
-  -   [37. Useful Operators in Python](.)  
-  -   [38. List Comprehensions in Python](.)  
-  -   [39. Python Statements Test Overview](.)  
-  -   [40. Python Statements Test Solutions](.)  
+  -   [34. If Elif and Else Statements in Python](contents)
+  -   [35. For Loops in Python](contents)  
+  -   [36. While Loops in Python](contents)  
+  -   [37. Useful Operators in Python](contents)  
+  -   [38. List Comprehensions in Python](contents)  
+  -   [39. Python Statements Test Overview](contents)  
+  -   [40. Python Statements Test Solutions](contents)  
 </details>
 
 <details>
   <summary>Section 6: Methods and Functions</summary>
 
-  -   [41. Methods and the Python Documentation](.)
-  -   [42. ntroduction to Functions](.)  
-  -   [43. def Keyword](.)  
-  -   [44. Basics of Python Functions](.)  
-  -   [45. Logic with Python Functions](.)  
-  -   [46. Tuple Unpacking with Python Functions](.)  
-  -   [47. Interactions between Python Functions](.)  
-  -   [48. Overview of Quick Function Exercises #1-10](.)  
-  >   [Quiz 8: Quick Check on Solutions Link](.)<br />
-  >   [Coding Exercise 10: Functions #1: print Hello World](.)<br />
-  >   [Coding Exercise 11: Functions #2: print Hello Name](.)<br />
-  >   [Coding Exercise 12: Functions #3: simple Boolean](.)<br />
-  >   [Coding Exercise 13: Functions #4: using Booleans](.)<br />
-  >   [Coding Exercise 14: Functions #5: simple math](.)<br />
-  >   [Coding Exercise 15: Functions #6: is even](.)<br />
-  >   [Coding Exercise 16: Functions #7: is greater](.)<br />
-  -   [49. *args and **kwargs in Python](.) 
-  >   [Coding Exercise 17: Functions #8: *args](.)<br />
-  >   [Coding Exercise 18: Functions #9: pick evens](.)<br />
-  >   [Coding Exercise 19: Functions #10: skyline](.)<br /> 
-  -   [50. Function Practice Exercises - Overview](.)
-  -   [51. Function Practice Exercises - Solutions](.)
-  -   [52. Function Practice - Solutions Level One](.)
-  -   [53. Function Practice - Solutions Level Two](.)
-  -   [54. Function Exercise Solutions - Challenge Problem](.)
-  -   [55. Lambda Expressions, Map, and Filter Functions](.)
-  -   [56. Nested Statements and Scope](.)
-  -   [57. Methods and Functions Homework Overview](.)
-  -   [58. Methods and Functions Homework - Solutions](.)
+  -   [41. Methods and the Python Documentation](contents)
+  -   [42. ntroduction to Functions](contents)  
+  -   [43. def Keyword](contents)  
+  -   [44. Basics of Python Functions](contents)  
+  -   [45. Logic with Python Functions](contents)  
+  -   [46. Tuple Unpacking with Python Functions](contents)  
+  -   [47. Interactions between Python Functions](contents)  
+  -   [48. Overview of Quick Function Exercises #1-10](contents)  
+  -   [49. *args and **kwargs in Python](contents) 
+  -   [50. Function Practice Exercises - Overview](contents)
+  -   [51. Function Practice Exercises - Solutions](contents)
+  -   [52. Function Practice - Solutions Level One](contents)
+  -   [53. Function Practice - Solutions Level Two](contents)
+  -   [54. Function Exercise Solutions - Challenge Problem](contents)
+  -   [55. Lambda Expressions, Map, and Filter Functions](contents)
+  -   [56. Nested Statements and Scope](contents)
+  -   [57. Methods and Functions Homework Overview](contents)
+  -   [58. Methods and Functions Homework - Solutions](contents)
 </details>
 
 <details>
   <summary>Section 7: Milestone Project - 1</summary>
 
-  -   [59. Introduction to Warm Up Project Exercises](.)
-  -   [60. Displaying Information](.)  
-  -   [61. Accepting User Input](.)  
-  -   [62. Validating User Input](.)  
-  -   [63. Simple User Interaction](.)  
-  -   [64. First Python Milestone Project Overview](.)  
-  -   [65. Milestone Project Help](.)  
-  -   [66. Solution Overview for MileStone Project 1 - Part One](.)  
-  -   [67. Solution Overview for MileStone Project 1 - Part Two](.)  
+  -   [59. Introduction to Warm Up Project Exercises](contents)
+  -   [60. Displaying Information](contents)  
+  -   [61. Accepting User Input](contents)  
+  -   [62. Validating User Input](contents)  
+  -   [63. Simple User Interaction](contents)  
+  -   [64. First Python Milestone Project Overview](contents)  
+  -   [65. Milestone Project Help](contents)  
+  -   [66. Solution Overview for MileStone Project 1 - Part One](contents)  
+  -   [67. Solution Overview for MileStone Project 1 - Part Two](contents)  
 </details>
 
 <details>
   <summary>Section 8: Object Oriented Programming</summary>
 
-  -   [68. Object Oriented Programming - Introduction](.)
-  -   [69. Object Oriented Programming - Attributes and Class Keyword](.)  
-  -   [70. Object Oriented Programming - Class Object Attributes and Methods](.)  
-  -   [71. Object Oriented Programming - Inheritance and Polymorphism](.)  
-  -   [72. Object Oriented Programming - Special (Magic/Dunder) Methods](.)  
-  -   [73. Object Oriented Programming - Homework](.)  
-  -   [74. Object Oriented Programming - Homework Solutions](.)  
-  -   [75. Object Oriented Programming - Challenge Overview](.)  
-  -   [76. Object Oriented Programming - Challenge Solution](.)  
+  -   [68. Object Oriented Programming - Introduction](contents)
+  -   [69. Object Oriented Programming - Attributes and Class Keyword](contents)  
+  -   [70. Object Oriented Programming - Class Object Attributes and Methods](contents)  
+  -   [71. Object Oriented Programming - Inheritance and Polymorphism](contents)  
+  -   [72. Object Oriented Programming - Special (Magic/Dunder) Methods](contents)  
+  -   [73. Object Oriented Programming - Homework](contents)  
+  -   [74. Object Oriented Programming - Homework Solutions](contents)  
+  -   [75. Object Oriented Programming - Challenge Overview](contents)  
+  -   [76. Object Oriented Programming - Challenge Solution](contents)  
 </details>
 
 <details>
   <summary>Section 9: Modules and Packages</summary>
 
-  -   [77. Pip Install and PyPi](.)
-  -   [78. Modules and Packages](.)  
-  -   [79. __name__ and "__main__"](.)  
+  -   [77. Pip Install and PyPi](contents)
+  -   [78. Modules and Packages](contents)  
+  -   [79. __name__ and "__main__"](contents)  
 </details>
 
 <details>
   <summary>Section 10: Errors and Exceptions Handling</summary>
 
-  -   [80. Errors and Exception Handling](.)
-  -   [81. Errors and Exceptions Homework](.)  
-  -   [82. Errors and Exception Homework - Solutions](.)  
-  -   [83. Update for Pylint Users](.)  
-  -   [84. Pylint Overview](.)  
-  -   [85. Running tests with the Unittest Library](.)  
+  -   [80. Errors and Exception Handling](contents)
+  -   [81. Errors and Exceptions Homework](contents)  
+  -   [82. Errors and Exception Homework - Solutions](contents)  
+  -   [83. Update for Pylint Users](contents)  
+  -   [84. Pylint Overview](contents)  
+  -   [85. Running tests with the Unittest Library](contents)  
 </details>
 
 <details>
   <summary>Section 11: Milestone Project - 2</summary>
 
-  -   [86. Introduction to Milestone Project 2 Section Warmup](.)
-  -   [87. Card Class](.)  
-  -   [88. Deck Class](.)  
-  -   [89. Player Class](.)  
+  -   [86. Introduction to Milestone Project 2 Section Warmup](contents)
+  -   [87. Card Class](contents)  
+  -   [88. Deck Class](contents)  
+  -   [89. Player Class](contents)  
   -   [90. Game Logic - Part One](contents/90_Game-Logic-Part-One.md)  
   -   [91. Game Logic - Part Two](contents/91_Game-Logic-Part-Two.md)  
   -   [92. Game Logic - Part Three](contents/92_Game-Logic-Part-Three.md)  
   -   [93. Milestone Project 2 Overview](contents/93_Milestone-Project-2-Overview.md)  
-  -   [94. Solution Walkthrough - Card and Deck classes](.)  
-  -   [95. Solution Walkthrough - Hand and Chip Classes](.)  
-  -   [96. Solution Walkthrough - Functions for Game Play](.)  
-  -   [97. Solutions Walkthrough - Final Gameplay Script](.)  
+  -   [94. Solution Walkthrough - Card and Deck classes](contents/)  
+  -   [95. Solution Walkthrough - Hand and Chip Classes](contents)  
+  -   [96. Solution Walkthrough - Functions for Game Play](contents)  
+  -   [97. Solutions Walkthrough - Final Gameplay Script](contents)  
 </details>
 
 <details>
   <summary>Section 12: Python Decorators</summary>
 
-  -   [98. Decorators with Python Overview](.)
-  -   [99. Decorators Homework](.)  
+  -   [98. Decorators with Python Overview](contents)
+  -   [99. Decorators Homework](contents)  
 </details>
 
 <details>
   <summary>Section 13: Python Generators</summary>
 
-  -   [100. Generators with Python](.)
-  -   [101. Generators Homework Overview](.)  
-  -   [102. Generators Homework Solutions](.)  
+  -   [100. Generators with Python](contents)
+  -   [101. Generators Homework Overview](contents)  
+  -   [102. Generators Homework Solutions](contents)  
 </details>
 
 <details>
   <summary>Section 14: Advanced Python Modules</summary>
 
-  -   [103. Introduction to Advanced Python Modules](.)
-  -   [104. Python Collections Module](.)  
-  -   [105. Opening and Reading Files and Folders (Python OS Module)](.)  
-  -   [106. Python Datetime Module](.)  
-  -   [107. Python Math and Random Modules](.)  
-  -   [108. Python Debugger](.)  
-  -   [109. Python Regular Expressions Part One](.)  
-  -   [110. Python Regular Expressions Part Two](.)  
-  -   [111. Python Regular Expressions Part Three](.)  
-  -   [112. Timing Your Python Code](.)  
-  -   [113. Zipping and Unzipping files with Python](.)  
-  -   [114. Advanced Python Module Puzzle - Overview](.)  
-  -   [115. Advanced Python Module Puzzle - Solution](.)  
+  -   [103. Introduction to Advanced Python Modules](contents)
+  -   [104. Python Collections Module](contents)  
+  -   [105. Opening and Reading Files and Folders (Python OS Module)](contents)  
+  -   [106. Python Datetime Module](contents)  
+  -   [107. Python Math and Random Modules](contents)  
+  -   [108. Python Debugger](contents)  
+  -   [109. Python Regular Expressions Part One](contents)  
+  -   [110. Python Regular Expressions Part Two](contents)  
+  -   [111. Python Regular Expressions Part Three](contents)  
+  -   [112. Timing Your Python Code](contents)  
+  -   [113. Zipping and Unzipping files with Python](contents)  
+  -   [114. Advanced Python Module Puzzle - Overview](contents)  
+  -   [115. Advanced Python Module Puzzle - Solution](contents)  
 </details>
 
 <details>
   <summary>Section 15: Web Scraping with Python</summary>
 
-  -   [116. Introduction to Web Scraping](.)
-  -   [117. Setting Up Web Scraping Libraries](.) 
-  -   [118. Python Web Scraping - Grabbing a Title](.) 
-  -   [119. Python Web Scraping - Grabbing a Class](.) 
-  -   [120. Python Web Scraping - Grabbing an Image](.) 
-  -   [121. Python Web Scraping - Book Examples Part One](.) 
-  -   [122. Python Web Scraping - Book Examples Part Two](.) 
-  -   [123. Python Web Scraping - Exercise Overview](.) 
-  -   [124. Python Web Scraping - Exercise Solutions](.) 
+  -   [116. Introduction to Web Scraping](contents)
+  -   [117. Setting Up Web Scraping Libraries](contents) 
+  -   [118. Python Web Scraping - Grabbing a Title](contents) 
+  -   [119. Python Web Scraping - Grabbing a Class](contents) 
+  -   [120. Python Web Scraping - Grabbing an Image](contents) 
+  -   [121. Python Web Scraping - Book Examples Part One](contents) 
+  -   [122. Python Web Scraping - Book Examples Part Two](contents) 
+  -   [123. Python Web Scraping - Exercise Overview](contents) 
+  -   [124. Python Web Scraping - Exercise Solutions](contents) 
 </details>
 
 <details>
   <summary>Section 16: Working with Images with Python</summary>
 
-  -   [125. Introduction to Images with Python](.)
-  -   [126. Working with Images with Python](.) 
-  -   [127. Python Image Exercises - Overview](.) 
-  -   [128. Python Image Exercises - Solution](.)   
+  -   [125. Introduction to Images with Python](contents)
+  -   [126. Working with Images with Python](contents) 
+  -   [127. Python Image Exercises - Overview](contents) 
+  -   [128. Python Image Exercises - Solution](contents)   
 </details>
 
 <details>
   <summary>Section 17: Working with PDFs and Spreadsheet CSV Files</summary>
 
-  -   [129. Introduction to PDFs and Spreadsheets with Python](.)
-  -   [130. Working with CSV Files in Python](.) 
-  -   [131. Working with PDF Files in Python](.) 
-  -   [132. PDFs and Spreadsheets Python Puzzle Exercise](.)   
-  -   [133. PDFs and Spreadsheets Python Puzzle Exercise - Solutions](.)   
+  -   [129. Introduction to PDFs and Spreadsheets with Python](contents)
+  -   [130. Working with CSV Files in Python](contents) 
+  -   [131. Working with PDF Files in Python](contents) 
+  -   [132. PDFs and Spreadsheets Python Puzzle Exercise](contents)   
+  -   [133. PDFs and Spreadsheets Python Puzzle Exercise - Solutions](contents)   
 </details>
 
 <details>
   <summary>Section 18: Emails with Python</summary>
 
-  -   [134. Introduction to Emails with Python](.)
-  -   [135. Sending Emails with Python](.) 
-  -   [136. Receiving Emails with Python](.)    
+  -   [134. Introduction to Emails with Python](contents)
+  -   [135. Sending Emails with Python](contents) 
+  -   [136. Receiving Emails with Python](contents)    
 </details>
 
 <details>
   <summary>Section 19: Final Capstone Python Project</summary>
 
-  -   [137. Final Capstone Project](.)    
+  -   [137. Final Capstone Project](contents)    
 </details>
 
 <details>
   <summary>Section 20: Advanced Python Objects and Data Structures</summary>
 
-  -   [138. Advanced Numbers](.)
-  -   [139. Advanced Strings](.) 
-  -   [140. Advanced Sets](.)    
-  -   [141. Advanced Dictionaries](.)    
-  -   [142. Advanced Lists](.)    
-  -   [143. Advanced Python Objects Assessment Test](.)    
-  -   [144. Advanced Python Objects Test - Solutions](.)    
+  -   [138. Advanced Numbers](contents)
+  -   [139. Advanced Strings](contents) 
+  -   [140. Advanced Sets](contents)    
+  -   [141. Advanced Dictionaries](contents)    
+  -   [142. Advanced Lists](contents)    
+  -   [143. Advanced Python Objects Assessment Test](contents)    
+  -   [144. Advanced Python Objects Test - Solutions](contents)    
 </details>
 
 <details>
   <summary>Section 21: Bonus Material - Introduction to GUIs</summary>
 
-  -   [145. Introduction to GUIs](.)
-  -   [146. Quick note about ipywidgets](.) 
-  -   [147. Interact Functionality with GUIs](.)    
-  -   [148. GUI Widget Basics](.)    
-  -   [149. List of Possible Widgets](.)    
-  -   [150. Widget Styling and Layouts](.)    
-  -   [151. Example of what a Widget can do!](.)    
+  -   [145. Introduction to GUIs](contents)
+  -   [146. Quick note about ipywidgets](contents) 
+  -   [147. Interact Functionality with GUIs](contents)    
+  -   [148. GUI Widget Basics](contents)    
+  -   [149. List of Possible Widgets](contents)    
+  -   [150. Widget Styling and Layouts](contents)    
+  -   [151. Example of what a Widget can do!](contents)    
 </details>
 
 <details>
   <summary>Section 22: APPENDIX: OLDER PYTHON 2 MATERIAL</summary>
 
-  -   [152. Objects and Data Structures Assessment - Solutions](.)
-  -   [153. Comparison Operators](.) 
-  -   [154. Chained Comparison Operators](.)  
+  -   [152. Objects and Data Structures Assessment - Solutions](contents)
+  -   [153. Comparison Operators](contents) 
+  -   [154. Chained Comparison Operators](contents)  
 </details>
 
 <details>
   <summary>Section 23: BONUS SECTION: THANK YOU!</summary>
 
-  -   [155. BONUS LECTURE](.)
+  -   [155. BONUS LECTURE](contents)
  </details>
 
 ##  Requirements

@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](./30_Python-Objects-and-Data-Structures-Assessment-Test-Overview.md) | [Next]()
+[Previous](./30_Python-Objects-and-Data-Structures-Assessment-Test-Overview.md) | [Next](./32_Comparison-Operators-in-Python.md)
