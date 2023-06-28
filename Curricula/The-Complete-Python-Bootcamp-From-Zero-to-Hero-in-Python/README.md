@@ -76,15 +76,15 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 5: Python Statements</summary>
+  <summary> Section 5: Python Statements </summary>
 
-  -   [34. If Elif and Else Statements in Python](contents)
-  -   [35. For Loops in Python](contents)  
-  -   [36. While Loops in Python](contents)  
-  -   [37. Useful Operators in Python](contents)  
-  -   [38. List Comprehensions in Python](contents)  
-  -   [39. Python Statements Test Overview](contents)  
-  -   [40. Python Statements Test Solutions](contents)  
+  -   [34. If Elif and Else Statements in Python](contents/34_If-Elif-and-Else-Statements-in-Python.md)
+  -   [35. For Loops in Python](contents/35_For-Loops-in-Python.md)  
+  -   [36. While Loops in Python](contents/36_While-Loops-in-Python.md)  
+  -   [37. Useful Operators in Python](contents/37_Useful-Operators-in-Python.md)  
+  -   [38. List Comprehensions in Python](contents/38_List-Comprehensions-in-Python.md)  
+  -   [39. Python Statements Test Overview](contents/39_Python-Statements-Test-Overview.md)  
+  -   [40. Python Statements Test Solutions](contents/40_Python-Statements-Test-Solutions.md)  
 </details>
 
 <details>
