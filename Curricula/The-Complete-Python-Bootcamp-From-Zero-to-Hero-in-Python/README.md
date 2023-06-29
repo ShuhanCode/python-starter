@@ -88,26 +88,26 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 6: Methods and Functions</summary>
+  <summary> Section 6: Methods and Functions </summary>
 
-  -   [41. Methods and the Python Documentation](contents)
-  -   [42. ntroduction to Functions](contents)  
-  -   [43. def Keyword](contents)  
-  -   [44. Basics of Python Functions](contents)  
-  -   [45. Logic with Python Functions](contents)  
-  -   [46. Tuple Unpacking with Python Functions](contents)  
-  -   [47. Interactions between Python Functions](contents)  
-  -   [48. Overview of Quick Function Exercises #1-10](contents)  
-  -   [49. *args and **kwargs in Python](contents) 
-  -   [50. Function Practice Exercises - Overview](contents)
-  -   [51. Function Practice Exercises - Solutions](contents)
-  -   [52. Function Practice - Solutions Level One](contents)
-  -   [53. Function Practice - Solutions Level Two](contents)
-  -   [54. Function Exercise Solutions - Challenge Problem](contents)
-  -   [55. Lambda Expressions, Map, and Filter Functions](contents)
-  -   [56. Nested Statements and Scope](contents)
-  -   [57. Methods and Functions Homework Overview](contents)
-  -   [58. Methods and Functions Homework - Solutions](contents)
+  -   [41. Methods and the Python Documentation](contents/41_Methods-and-the-Python-Documentation.md)
+  -   [42. Introduction to Functions](contents/42_Introduction-to-Functions.md)  
+  -   [43. def Keyword](contents/43_def-Keyword.md)  
+  -   [44. Basics of Python Functions](contents/44_Basics-of-Python-Functions.md)  
+  -   [45. Logic with Python Functions](contents/45_Logic-with-Python-Functions.md)  
+  -   [46. Tuple Unpacking with Python Functions](contents/46_Tuple-Unpacking-with-Python-Functions.md)  
+  -   [47. Interactions between Python Functions](contents/47_Interactions-between-Python-Functions.md)  
+  -   [48. Overview of Quick Function Exercises #1-10](contents/48_Overview-of-Quick-Function-Exercises_1-10.md)  
+  -   [49. *args and **kwargs in Python](contents/49_*args-and-**kwargs-in-Python.md) 
+  -   [50. Function Practice Exercises - Overview](contents/50_Function-Practice-Exercises-Overview.md)
+  -   [51. Function Practice Exercises - Solutions](contents/51_Function-Practice-Exercises-Solutions.md)
+  -   [52. Function Practice - Solutions Level One](contents/52_Function-Practice-Solutions-Level-One.md)
+  -   [53. Function Practice - Solutions Level Two](contents/53_Function-Practice-Solutions-Level-Two.md)
+  -   [54. Function Exercise Solutions - Challenge Problem](contents/54_Function-Exercise-Solutions-Challenge-Problem.md)
+  -   [55. Lambda Expressions, Map, and Filter Functions](contents/55_Lambda-Expressions-Map-and-Filter-Functions.md)
+  -   [56. Nested Statements and Scope](contents/56_Nested-Statements-and-Scope.md)
+  -   [57. Methods and Functions Homework Overview](contents/57_Methods-and-Functions-Homework-Overview.md)
+  -   [58. Methods and Functions Homework - Solutions](contents/58_Methods-and-Functions-Homework-Solutions.md)
 </details>
 
 <details>
