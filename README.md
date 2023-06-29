@@ -1,4 +1,4 @@
-# PYTHON (for blender scripting)
+# PYTHON 
 
 ## Contents
 
