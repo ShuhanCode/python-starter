@@ -111,16 +111,16 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 7: Milestone Project - 1</summary>
+  <summary> Section 7: Milestone Project - 1 </summary>
 
-  -   [59. Introduction to Warm Up Project Exercises](contents)
-  -   [60. Displaying Information](contents)  
-  -   [61. Accepting User Input](contents)  
-  -   [62. Validating User Input](contents)  
-  -   [63. Simple User Interaction](contents)  
-  -   [64. First Python Milestone Project Overview](contents)  
-  -   [65. Milestone Project Help](contents)  
-  -   [66. Solution Overview for MileStone Project 1 - Part One](contents)  
+  -   [59. Introduction to Warm Up Project Exercises](contents/59_Introduction-to-Warm-Up-Project-Exercises.md)
+  -   [60. Displaying Information](contents/60_Displaying-Information.md)  
+  -   [61. Accepting User Input](contents/61_Accepting-User-Input.md)  
+  -   [62. Validating User Input](contents/62_Validating-User-Input.md)  
+  -   [63. Simple User Interaction](contents/63_Simple-User-Interaction.md)  
+  -   [64. First Python Milestone Project Overview](contents/64_First-Python-Milestone-Project-Overview.md)  
+  -   [65. Milestone Project Help](contents/65_Milestone-Project-Help.md)  
+  -   [66. Solution Overview for MileStone Project 1 - Part One](contents/66_Solution-Overview-for-MileStone-Project-1-Part-One.md)  
   -   [67. Solution Overview for MileStone Project 1 - Part Two](contents)  
 </details>
 
