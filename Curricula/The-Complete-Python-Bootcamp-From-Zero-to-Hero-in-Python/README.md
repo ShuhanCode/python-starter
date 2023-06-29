@@ -139,15 +139,15 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 9: Modules and Packages</summary>
+  <summary> Section 9: Modules and Packages </summary>
 
-  -   [77. Pip Install and PyPi](contents)
-  -   [78. Modules and Packages](contents)  
-  -   [79. __name__ and "__main__"](contents)  
+  -   [77. Pip Install and PyPi](contents/77_Pip-Install-and-PyPi.md)
+  -   [78. Modules and Packages](contents/78_Modules-and-Packages.md)  
+  -   [79. `__name__` and `"__main__"`](contents/79___name__%20and-%22__main__%22.md)  
 </details>
 
 <details>
-  <summary>Section 10: Errors and Exceptions Handling</summary>
+  <summary> Section 10: Errors and Exceptions Handling </summary>
 
   -   [80. Errors and Exception Handling](contents)
   -   [81. Errors and Exceptions Homework](contents)  
