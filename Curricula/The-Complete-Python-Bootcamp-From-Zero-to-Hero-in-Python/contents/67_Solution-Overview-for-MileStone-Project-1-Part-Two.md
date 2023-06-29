@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](./66_Solution-Overview-for-MileStone-Project-1-Part-One.md) | [Next]()
+[Previous](./66_Solution-Overview-for-MileStone-Project-1-Part-One.md) | [Next](./68_Object-Oriented-Programming-Introduction.md)

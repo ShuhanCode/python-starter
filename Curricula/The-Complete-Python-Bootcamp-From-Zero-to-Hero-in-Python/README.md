@@ -121,21 +121,21 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   -   [64. First Python Milestone Project Overview](contents/64_First-Python-Milestone-Project-Overview.md)  
   -   [65. Milestone Project Help](contents/65_Milestone-Project-Help.md)  
   -   [66. Solution Overview for MileStone Project 1 - Part One](contents/66_Solution-Overview-for-MileStone-Project-1-Part-One.md)  
-  -   [67. Solution Overview for MileStone Project 1 - Part Two](contents)  
+  -   [67. Solution Overview for MileStone Project 1 - Part Two](contents/67_Solution-Overview-for-MileStone-Project-1-Part-Two.md)  
 </details>
 
 <details>
-  <summary>Section 8: Object Oriented Programming</summary>
+  <summary> Section 8: Object Oriented Programming </summary>
 
-  -   [68. Object Oriented Programming - Introduction](contents)
-  -   [69. Object Oriented Programming - Attributes and Class Keyword](contents)  
-  -   [70. Object Oriented Programming - Class Object Attributes and Methods](contents)  
-  -   [71. Object Oriented Programming - Inheritance and Polymorphism](contents)  
-  -   [72. Object Oriented Programming - Special (Magic/Dunder) Methods](contents)  
-  -   [73. Object Oriented Programming - Homework](contents)  
-  -   [74. Object Oriented Programming - Homework Solutions](contents)  
-  -   [75. Object Oriented Programming - Challenge Overview](contents)  
-  -   [76. Object Oriented Programming - Challenge Solution](contents)  
+  -   [68. Object Oriented Programming - Introduction](contents/68_Object-Oriented-Programming-Introduction.md)
+  -   [69. Object Oriented Programming - Attributes and Class Keyword](contents/69_OOP-Attributes-and-Class-Keyword.md)  
+  -   [70. Object Oriented Programming - Class Object Attributes and Methods](contents/70_OOP-Class-Object-Attributes-and-Methods.md)  
+  -   [71. Object Oriented Programming - Inheritance and Polymorphism](contents/71_OOP-Inheritance-and-Polymorphism.md)  
+  -   [72. Object Oriented Programming - Special (Magic/Dunder) Methods](contents/72_OOP-Special_Magic_Dunder-Methods.md)  
+  -   [73. Object Oriented Programming - Homework](contents/73_OOP-Homework.md)  
+  -   [74. Object Oriented Programming - Homework Solutions](contents/74_OOP-Homework-Solutions.md)  
+  -   [75. Object Oriented Programming - Challenge Overview](contents/75_OOP-Challenge-Overview.md)  
+  -   [76. Object Oriented Programming - Challenge Solution](contents/76_OOP-Challenge-Solution.md)  
 </details>
 
 <details>
@@ -347,3 +347,15 @@ This course comes with a **30 day money back guarantee!** If you are not satisfi
 -   Beginners who have never programmed before.
 -   Programmers switching languages to Python.
 -   Intermediate Python programmers who want to level up their skills!
+
+##  More practice
+-   [Python Course - Learn Python Turtle Module by Doing War Game](https://www.udemy.com/course/python-course-learn-python-turtle-module-by-doing-war-game)
+-   [Image Manipulation with Python and Pillow](https://www.udemy.com/course/python-pillow)    
+-   [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
+-   [Automate Your Life With Python](https://www.udemy.com/course/automate-your-life-with-python)
+-   [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code)
+-   [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+-   [Complete Data Structures and Algorithms: Software Interviews](https://www.udemy.com/course/data-structures-and-algorithms-software-interviews)
+-   [Create a Text Completion ChatGPT A.I. Bot With Tkinter](https://www.udemy.com/course/create-a-chatgpt-ai-bot-with-tkinter)
+-   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions)
+-   [Start OpenCV with Python: Real-time Processing with Webcam](https://www.udemy.com/course/start-opencv-with-python-real-time-processing-with-webcam)
