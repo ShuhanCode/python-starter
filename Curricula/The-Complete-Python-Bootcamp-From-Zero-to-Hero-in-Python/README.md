@@ -143,7 +143,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 
   -   [77. Pip Install and PyPi](contents/77_Pip-Install-and-PyPi.md)
   -   [78. Modules and Packages](contents/78_Modules-and-Packages.md)  
-  -   [79. __name__ and "__main__"](contents/79___name__%20and-%22__main__%22.md)  
+  -   [79. `__name__` and `"__main__"`](contents/79___name__%20and-%22__main__%22.md)  
 </details>
 
 <details>
