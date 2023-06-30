@@ -184,9 +184,9 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 13: Python Generators </summary>
 
-  -   [100. Generators with Python](contents)
-  -   [101. Generators Homework Overview](contents)  
-  -   [102. Generators Homework Solutions](contents)  
+  -   [100. Generators with Python](contents/100_Generators-with-Python.md)
+  -   [101. Generators Homework Overview](contents/101_Generators-Homework-Overview.md)  
+  -   [102. Generators Homework Solutions](contents/102_Generators-Homework-Solutions.md)  
 </details>
 
 <details>
