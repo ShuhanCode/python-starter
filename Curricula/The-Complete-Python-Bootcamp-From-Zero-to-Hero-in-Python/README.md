@@ -158,31 +158,31 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 11: Milestone Project - 2</summary>
+  <summary> Section 11: Milestone Project - 2 </summary>
 
-  -   [86. Introduction to Milestone Project 2 Section Warmup](contents)
-  -   [87. Card Class](contents)  
-  -   [88. Deck Class](contents)  
-  -   [89. Player Class](contents)  
+  -   [86. Introduction to Milestone Project 2 Section Warmup](contents/86_Introduction-to-Milestone-Project-2-Section-Warmup.md)
+  -   [87. Card Class](contents/87_Card%20Class.md)  
+  -   [88. Deck Class](contents/88_Deck-Class.md)  
+  -   [89. Player Class](contents/89_Player-Class.md)  
   -   [90. Game Logic - Part One](contents/90_Game-Logic-Part-One.md)  
   -   [91. Game Logic - Part Two](contents/91_Game-Logic-Part-Two.md)  
   -   [92. Game Logic - Part Three](contents/92_Game-Logic-Part-Three.md)  
   -   [93. Milestone Project 2 Overview](contents/93_Milestone-Project-2-Overview.md)  
-  -   [94. Solution Walkthrough - Card and Deck classes](contents/)  
-  -   [95. Solution Walkthrough - Hand and Chip Classes](contents)  
-  -   [96. Solution Walkthrough - Functions for Game Play](contents)  
-  -   [97. Solutions Walkthrough - Final Gameplay Script](contents)  
+  -   [94. Solution Walkthrough - Card and Deck classes](contents/94_Solution-Walkthrough-Card-and-Deck-classes.md)  
+  -   [95. Solution Walkthrough - Hand and Chip Classes](contents/95_Solution-Walkthrough-Hand-and-Chip-Classes.md)  
+  -   [96. Solution Walkthrough - Functions for Game Play](contents/96_Solution-Walkthrough-Functions-for-Game-Play.md)  
+  -   [97. Solutions Walkthrough - Final Gameplay Script](contents/97_Solutions-Walkthrough-Final-Gameplay-Script.md)  
 </details>
 
 <details>
-  <summary>Section 12: Python Decorators</summary>
+  <summary> Section 12: Python Decorators </summary>
 
   -   [98. Decorators with Python Overview](contents)
   -   [99. Decorators Homework](contents)  
 </details>
 
 <details>
-  <summary>Section 13: Python Generators</summary>
+  <summary> Section 13: Python Generators </summary>
 
   -   [100. Generators with Python](contents)
   -   [101. Generators Homework Overview](contents)  
