@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](./96_Solution-Walkthrough-Functions-for-Game-Play.md) | [Next](.)
+[Previous](./96_Solution-Walkthrough-Functions-for-Game-Play.md) | [Next](./98_Decorators-with-Python-Overview.md)

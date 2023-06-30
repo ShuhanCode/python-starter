@@ -177,8 +177,8 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 12: Python Decorators </summary>
 
-  -   [98. Decorators with Python Overview](contents)
-  -   [99. Decorators Homework](contents)  
+  -   [98. Decorators with Python Overview](contents/98_Decorators-with-Python-Overview.md)
+  -   [99. Decorators Homework](contents/99_Decorators-Homework.md)  
 </details>
 
 <details>
