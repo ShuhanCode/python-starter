@@ -21,6 +21,7 @@
 </details>
 
 <details>
+
   <summary> 77. Pip Install and PyPi </summary>
 
 -   [Notebook: 00-Modules_and_Packages](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/tree/master/06-Modules%20and%20Packages/00-Modules_and_Packages)
