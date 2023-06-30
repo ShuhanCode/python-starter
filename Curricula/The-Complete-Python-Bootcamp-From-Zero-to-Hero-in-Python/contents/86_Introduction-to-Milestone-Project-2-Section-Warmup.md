@@ -1,7 +1,7 @@
-# 91. Game Logic - Part Two
+# 86. Introduction to Milestone Project 2 Section Warmup
 
 <details>
-  <summary> 91. Game Logic - Part Two </summary>
+  <summary> 86. Introduction to Milestone Project 2 Section Warmup </summary>
 
 -   [Notebook: 00-Milestone-2-Warmup-Project.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/00-Milestone-2-Warmup-Project.ipynb)
 
@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](90_Game-Logic-Part-One.md) | [Next](92_Game-Logic-Part-Three.md)
+[Previous](./85_Running-tests-with-the-Unittest-Library.md) | [Next](./87_Card%20Class.md)

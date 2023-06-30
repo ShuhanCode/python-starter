@@ -1,12 +1,11 @@
-# 91. Game Logic - Part Two
+# 89. Player Class
 
 <details>
-  <summary> 91. Game Logic - Part Two </summary>
+  <summary> 89. Player Class </summary>
 
--   [Notebook: 00-Milestone-2-Warmup-Project.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/00-Milestone-2-Warmup-Project.ipynb)
+-   [Notebook: 02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/02-Milestone%20Project%202%20-%20Walkthrough%20Steps%20Workbook.ipynb)
 
 -   [Codebase: 00_Milestone_2_Warmup_Project.py](../../../codebase/python-camp/08-Milestone-Project-2/00_Milestone_2_Warmup_Project.py)
-
 </details> 
 
 
@@ -18,4 +17,4 @@
 
 ---
 
-[Previous](90_Game-Logic-Part-One.md) | [Next](92_Game-Logic-Part-Three.md)
+[Previous](./88_Deck-Class.md) | [Next](./90_Game-Logic-Part-One.md)
