@@ -149,12 +149,12 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 10: Errors and Exceptions Handling </summary>
 
-  -   [80. Errors and Exception Handling](contents)
-  -   [81. Errors and Exceptions Homework](contents)  
-  -   [82. Errors and Exception Homework - Solutions](contents)  
-  -   [83. Update for Pylint Users](contents)  
-  -   [84. Pylint Overview](contents)  
-  -   [85. Running tests with the Unittest Library](contents)  
+  -   [80. Errors and Exception Handling](contents/80_Errors-and-Exception-Handling.md)
+  -   [81. Errors and Exceptions Homework](contents/81_Errors-and-Exceptions-Homework.md)  
+  -   [82. Errors and Exception Homework - Solutions](contents/82_Errors-and-Exception-Homework-Solutions.md)  
+  -   [83. Update for Pylint Users](contents/83_Update-for-Pylint-Users.md)  
+  -   [84. Pylint Overview](contents/84_Pylint-Overview.md)  
+  -   [85. Running tests with the Unittest Library](contents/85_Running-tests-with-the-Unittest-Library.md)  
 </details>
 
 <details>
