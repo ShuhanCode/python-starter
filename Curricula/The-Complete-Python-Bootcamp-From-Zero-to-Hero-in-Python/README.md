@@ -33,7 +33,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 2: Python Setup</summary>
+  <summary> Section 2: Python Setup </summary>
 
   -   [6.  Command Line Basics](contents/6_Command-Line-Basics.md)
   -   [7.  Installing Python (Step by Step)](contents/7_Installing-Python-(Step-by-Step).md)
@@ -190,25 +190,25 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 14: Advanced Python Modules</summary>
+  <summary> Section 14: Advanced Python Modules </summary>
 
-  -   [103. Introduction to Advanced Python Modules](contents)
-  -   [104. Python Collections Module](contents)  
-  -   [105. Opening and Reading Files and Folders (Python OS Module)](contents)  
-  -   [106. Python Datetime Module](contents)  
-  -   [107. Python Math and Random Modules](contents)  
-  -   [108. Python Debugger](contents)  
-  -   [109. Python Regular Expressions Part One](contents)  
-  -   [110. Python Regular Expressions Part Two](contents)  
-  -   [111. Python Regular Expressions Part Three](contents)  
-  -   [112. Timing Your Python Code](contents)  
-  -   [113. Zipping and Unzipping files with Python](contents)  
-  -   [114. Advanced Python Module Puzzle - Overview](contents)  
-  -   [115. Advanced Python Module Puzzle - Solution](contents)  
+  -   [103. Introduction to Advanced Python Modules](contents/103_Introduction-to-Advanced-Python-Modules.md)
+  -   [104. Python Collections Module](contents/104_Python-Collections-Module.md)  
+  -   [105. Opening and Reading Files and Folders (Python OS Module)](contents/105_Opening-and-Reading-Files-and-Folders-Python-OS-Module.md)
+  -   [106. Python Datetime Module](contents/106_Python-Datetime-Module.md)  
+  -   [107. Python Math and Random Modules](contents/107_Python-Math-and-Random-Modules.md)  
+  -   [108. Python Debugger](contents/108_Python-Debugger.md)  
+  -   [109. Python Regular Expressions Part One](contents/109_Python-Regular-Expressions-Part-One.md)  
+  -   [110. Python Regular Expressions Part Two](contents/110_Python-Regular-Expressions-Part-Two.md)  
+  -   [111. Python Regular Expressions Part Three](contents/111_Python-Regular-Expressions-Part-Three.md)  
+  -   [112. Timing Your Python Code](contents/112_Timing-Your-Python-Code.md)  
+  -   [113. Zipping and Unzipping files with Python](contents/113_Zipping-and-Unzipping-files-with-Python.md)  
+  -   [114. Advanced Python Module Puzzle - Overview](contents/114_Advanced-Python-Module-Puzzle-Overview.md)  
+  -   [115. Advanced Python Module Puzzle - Solution](contents/115_Advanced-Python-Module-Puzzle-Solution.md)  
 </details>
 
 <details>
-  <summary>Section 15: Web Scraping with Python</summary>
+  <summary> Section 15: Web Scraping with Python </summary>
 
   -   [116. Introduction to Web Scraping](contents)
   -   [117. Setting Up Web Scraping Libraries](contents) 
@@ -222,7 +222,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 16: Working with Images with Python</summary>
+  <summary> Section 16: Working with Images with Python </summary>
 
   -   [125. Introduction to Images with Python](contents)
   -   [126. Working with Images with Python](contents) 
@@ -231,7 +231,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 17: Working with PDFs and Spreadsheet CSV Files</summary>
+  <summary> Section 17: Working with PDFs and Spreadsheet CSV Files </summary>
 
   -   [129. Introduction to PDFs and Spreadsheets with Python](contents)
   -   [130. Working with CSV Files in Python](contents) 
@@ -241,7 +241,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 18: Emails with Python</summary>
+  <summary> Section 18: Emails with Python </summary>
 
   -   [134. Introduction to Emails with Python](contents)
   -   [135. Sending Emails with Python](contents) 
@@ -249,13 +249,13 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 19: Final Capstone Python Project</summary>
+  <summary> Section 19: Final Capstone Python Project </summary>
 
   -   [137. Final Capstone Project](contents)    
 </details>
 
 <details>
-  <summary>Section 20: Advanced Python Objects and Data Structures</summary>
+  <summary> Section 20: Advanced Python Objects and Data Structures </summary>
 
   -   [138. Advanced Numbers](contents)
   -   [139. Advanced Strings](contents) 
@@ -267,7 +267,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 21: Bonus Material - Introduction to GUIs</summary>
+  <summary> Section 21: Bonus Material - Introduction to GUIs </summary>
 
   -   [145. Introduction to GUIs](contents)
   -   [146. Quick note about ipywidgets](contents) 
@@ -279,7 +279,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 22: APPENDIX: OLDER PYTHON 2 MATERIAL</summary>
+  <summary> Section 22: APPENDIX: OLDER PYTHON 2 MATERIAL </summary>
 
   -   [152. Objects and Data Structures Assessment - Solutions](contents)
   -   [153. Comparison Operators](contents) 
@@ -287,7 +287,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 </details>
 
 <details>
-  <summary>Section 23: BONUS SECTION: THANK YOU!</summary>
+  <summary> Section 23: BONUS SECTION: THANK YOU! </summary>
 
   -   [155. BONUS LECTURE](contents)
  </details>
@@ -348,14 +348,24 @@ This course comes with a **30 day money back guarantee!** If you are not satisfi
 -   Programmers switching languages to Python.
 -   Intermediate Python programmers who want to level up their skills!
 
-##  More practice
--   [Python Course - Learn Python Turtle Module by Doing War Game](https://www.udemy.com/course/python-course-learn-python-turtle-module-by-doing-war-game)
--   [Image Manipulation with Python and Pillow](https://www.udemy.com/course/python-pillow)    
--   [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
+#  Python on Udemy
+-   [Python Course - Learn Python Turtle Module by Doing War Game](Python-Course_Learn-Python-Turtle-Module-by-Doing-War-Game/Readme.md)
+-   [Python Course - Doing Space Invaders Game with Turtle Module](Python-Course_Doing-Space-Invaders-Game-with-Turtle-Module/Readme.md)
+-   [Image Manipulation with Python and Pillow](Image-Manipulation-with-Python-and-Pillow/Readme.md)  
+-   [Complete Course on Data Visualization, Matplotlib and Python](Complete-Course-on-Data-Visualization-Matplotlib-and-Python/Readme.md)  
+-   [GUI Development with Python and Tkinter](GUI-Development-with-Python-and-Tkinter/Readme.md)
+-   [Create a Text Completion ChatGPT A.I. Bot With Tkinter](https://www.udemy.com/course/create-a-chatgpt-ai-bot-with-tkinter)
+-   [Python Unit Testing Fundamentals (using unittest & pytest)](https://www.udemy.com/course/python-unit-testing-fundamentals/)
+-   [Python Django, Aiohttp Workshop: Cooking Secret Note service](https://www.udemy.com/course/python-django-workshop-cooking-secret-note-service/#reviews)
+-   [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp)
+-   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions)
+
+## Further step
 -   [Automate Your Life With Python](https://www.udemy.com/course/automate-your-life-with-python)
 -   [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code)
 -   [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 -   [Complete Data Structures and Algorithms: Software Interviews](https://www.udemy.com/course/data-structures-and-algorithms-software-interviews)
--   [Create a Text Completion ChatGPT A.I. Bot With Tkinter](https://www.udemy.com/course/create-a-chatgpt-ai-bot-with-tkinter)
--   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions)
--   [Start OpenCV with Python: Real-time Processing with Webcam](https://www.udemy.com/course/start-opencv-with-python-real-time-processing-with-webcam)
+
+
+##  More practice
+-   [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/)

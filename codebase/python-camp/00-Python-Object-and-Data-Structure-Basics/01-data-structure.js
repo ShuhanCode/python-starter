@@ -13,3 +13,11 @@ console.log(chars);
 const strCopy = str.split();
 console.log(strCopy);
 // expected output: Array ["The quick brown fox jumps over the lazy dog."]
+
+
+function hello () {
+   pass
+}
+
+
+console.log(hello());
