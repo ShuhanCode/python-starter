@@ -1,6 +1,18 @@
 # 112. Timing Your Python Code
 
 <details>
+  <summary> Section 14: Advanced Python Modules - 112. Timing Your Python Code </summary>
+
+<p align="center" >
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/112_Timing-Your-Python-Code.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/112_Timing-Your-Python-Code_2.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python/imgs/112_Timing-Your-Python-Code_3.png" width="90%" > 
+
+</p> 
+
+</details>
+
+<details>
   <summary> 112. Timing Your Python Code </summary>
 
 -   [Notebook: 06-Timing your code - timeit.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/06-Timing%20your%20code%20-%20timeit.ipynb)

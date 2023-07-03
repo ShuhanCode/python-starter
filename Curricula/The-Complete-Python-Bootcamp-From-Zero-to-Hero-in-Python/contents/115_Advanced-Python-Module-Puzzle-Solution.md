@@ -17,4 +17,4 @@
 
 ---
 
-[Previous](./114_Advanced-Python-Module-Puzzle-Overview.md) | [Next]()
+[Previous](./114_Advanced-Python-Module-Puzzle-Overview.md) | [Next](./116_Introduction-to-Web-Scraping.md)

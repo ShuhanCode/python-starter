@@ -14,7 +14,7 @@
 
 -   [Slides: 13 - Advanced Python Modules](https://docs.google.com/presentation/d/1I7VA4ImWpR-8Pg6jvDHx_SdbyLae6gQ-5RqhIUxEzek/edit#slide=id.p)
 
-
+-   [Python Regular Expressions Documentation](https://docs.python.org/3/library/re.html)
 
 ---
 

@@ -210,7 +210,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 15: Web Scraping with Python </summary>
 
-  -   [116. Introduction to Web Scraping](contents)
+  -   [116. Introduction to Web Scraping](contents/116_Introduction-to-Web-Scraping.md)
   -   [117. Setting Up Web Scraping Libraries](contents) 
   -   [118. Python Web Scraping - Grabbing a Title](contents) 
   -   [119. Python Web Scraping - Grabbing a Class](contents) 
@@ -358,6 +358,7 @@ This course comes with a **30 day money back guarantee!** If you are not satisfi
 -   [Python Unit Testing Fundamentals (using unittest & pytest)](https://www.udemy.com/course/python-unit-testing-fundamentals/)
 -   [Python Django, Aiohttp Workshop: Cooking Secret Note service](https://www.udemy.com/course/python-django-workshop-cooking-secret-note-service/#reviews)
 -   [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp)
+-   [REST APIs with Flask and Python in 2023](https://www.udemy.com/course/rest-api-flask-and-python/)
 -   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions)
 
 ## Further step
