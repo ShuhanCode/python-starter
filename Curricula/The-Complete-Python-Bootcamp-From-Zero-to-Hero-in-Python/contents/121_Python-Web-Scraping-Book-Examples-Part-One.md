@@ -1,7 +1,7 @@
-# 117. Setting Up Web Scraping Libraries
+# 121. Python Web Scraping - Book Examples Part One
 
 <details>
-  <summary> 117. Setting Up Web Scraping Libraries </summary>
+  <summary> 121. Python Web Scraping - Book Examples Part One </summary>
 
 -   [Notebook: 00-Guide-to-Web-Scraping.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/13-Web-Scraping/00-Guide-to-Web-Scraping.ipynb)
 
@@ -13,8 +13,9 @@
 
 -   [Slides: Web Scraping](https://docs.google.com/presentation/d/1KTKTVvXEqUoCQKNimUqOfcCvrQp0zOXu67G1oax3LxU/edit#slide=id.g2586a91ea0_0_95)
 
--   [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk)
+
+-   [http://books.toscrape.com/catalogue/page-1.html](http://books.toscrape.com/catalogue/page-1.html)
 
 ---
 
-[Previous](./116_Introduction-to-Web-Scraping.md) | [Next](./118_Python-Web-Scraping-Grabbing-a-Title.md)
+[Previous](./120_Python-Web-Scraping-Grabbing-an-Image.md) | [Next](./122_Python-Web-Scraping-Book-Examples-Part-Two.md)

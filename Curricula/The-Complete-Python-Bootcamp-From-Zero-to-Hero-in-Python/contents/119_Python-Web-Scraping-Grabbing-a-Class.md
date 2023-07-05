@@ -1,7 +1,7 @@
-# 117. Setting Up Web Scraping Libraries
+# 119. Python Web Scraping - Grabbing a Class
 
 <details>
-  <summary> 117. Setting Up Web Scraping Libraries </summary>
+  <summary> 119. Python Web Scraping - Grabbing a Class </summary>
 
 -   [Notebook: 00-Guide-to-Web-Scraping.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/13-Web-Scraping/00-Guide-to-Web-Scraping.ipynb)
 
@@ -13,8 +13,7 @@
 
 -   [Slides: Web Scraping](https://docs.google.com/presentation/d/1KTKTVvXEqUoCQKNimUqOfcCvrQp0zOXu67G1oax3LxU/edit#slide=id.g2586a91ea0_0_95)
 
--   [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk)
 
 ---
 
-[Previous](./116_Introduction-to-Web-Scraping.md) | [Next](./118_Python-Web-Scraping-Grabbing-a-Title.md)
+[Previous](./118_Python-Web-Scraping-Grabbing-a-Title.md) | [Next](./120_Python-Web-Scraping-Grabbing-an-Image.md)

@@ -211,14 +211,14 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   <summary> Section 15: Web Scraping with Python </summary>
 
   -   [116. Introduction to Web Scraping](contents/116_Introduction-to-Web-Scraping.md)
-  -   [117. Setting Up Web Scraping Libraries](contents) 
-  -   [118. Python Web Scraping - Grabbing a Title](contents) 
-  -   [119. Python Web Scraping - Grabbing a Class](contents) 
-  -   [120. Python Web Scraping - Grabbing an Image](contents) 
-  -   [121. Python Web Scraping - Book Examples Part One](contents) 
-  -   [122. Python Web Scraping - Book Examples Part Two](contents) 
-  -   [123. Python Web Scraping - Exercise Overview](contents) 
-  -   [124. Python Web Scraping - Exercise Solutions](contents) 
+  -   [117. Setting Up Web Scraping Libraries](contents/117_Setting-Up-Web-Scraping-Libraries.md) 
+  -   [118. Python Web Scraping - Grabbing a Title](contents/118_Python-Web-Scraping-Grabbing-a-Title.md) 
+  -   [119. Python Web Scraping - Grabbing a Class](contents/119_Python-Web-Scraping-Grabbing-a-Class.md) 
+  -   [120. Python Web Scraping - Grabbing an Image](contents/120_Python-Web-Scraping-Grabbing-an-Image.md) 
+  -   [121. Python Web Scraping - Book Examples Part One](contents/121_Python-Web-Scraping-Book-Examples-Part-One.md) 
+  -   [122. Python Web Scraping - Book Examples Part Two](contents/122_Python-Web-Scraping-Book-Examples-Part-Two.md) 
+  -   [123. Python Web Scraping - Exercise Overview](contents/123_Python-Web-Scraping-Exercise-Overview.md) 
+  -   [124. Python Web Scraping - Exercise Solutions](contents/124_Python-Web-Scraping-Exercise-Solutions.md) 
 </details>
 
 <details>
