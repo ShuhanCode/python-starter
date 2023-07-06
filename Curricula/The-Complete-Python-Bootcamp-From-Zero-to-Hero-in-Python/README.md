@@ -243,9 +243,9 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 18: Emails with Python </summary>
 
-  -   [134. Introduction to Emails with Python](contents)
-  -   [135. Sending Emails with Python](contents) 
-  -   [136. Receiving Emails with Python](contents)    
+  -   [134. Introduction to Emails with Python](contents/134_Introduction-to-Emails-with-Python.md)
+  -   [135. Sending Emails with Python](contents/135_Sending-Emails-with-Python.md) 
+  -   [136. Receiving Emails with Python](contents/136_Receiving-Emails-with-Python.md)    
 </details>
 
 <details>
