@@ -226,18 +226,18 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 
   -   [125. Introduction to Images with Python](contents/125_Introduction-to-Images-with-Python.md)
   -   [126. Working with Images with Python](contents/126_Working-with-Images-with-Python.md) 
-  -   [127. Python Image Exercises - Overview](contents) 
-  -   [128. Python Image Exercises - Solution](contents)   
+  -   [127. Python Image Exercises - Overview](contents/127_Python-Image-Exercises-Overview.md) 
+  -   [128. Python Image Exercises - Solution](contents/128_Python-Image-Exercises-Solution.md)   
 </details>
 
 <details>
   <summary> Section 17: Working with PDFs and Spreadsheet CSV Files </summary>
 
-  -   [129. Introduction to PDFs and Spreadsheets with Python](contents)
-  -   [130. Working with CSV Files in Python](contents) 
-  -   [131. Working with PDF Files in Python](contents) 
-  -   [132. PDFs and Spreadsheets Python Puzzle Exercise](contents)   
-  -   [133. PDFs and Spreadsheets Python Puzzle Exercise - Solutions](contents)   
+  -   [129. Introduction to PDFs and Spreadsheets with Python](contents/129_Introduction-to-PDFs-and-Spreadsheets-with-Python.md)
+  -   [130. Working with CSV Files in Python](contents/130_Working-with-CSV-Files-in-Python.md) 
+  -   [131. Working with PDF Files in Python](contents/131_Working-with-PDF-Files-in-Python.md) 
+  -   [132. PDFs and Spreadsheets Python Puzzle Exercise](contents/132_PDFs-and-Spreadsheets-Python-Puzzle-Exercise.md)   
+  -   [133. PDFs and Spreadsheets Python Puzzle Exercise - Solutions](contents/133_PDFs-and-Spreadsheets-Python-Puzzle-Exercise-Solutions.md)   
 </details>
 
 <details>
