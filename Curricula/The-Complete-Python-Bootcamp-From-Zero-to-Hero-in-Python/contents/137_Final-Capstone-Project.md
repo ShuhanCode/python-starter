@@ -1,4 +1,4 @@
-#   137. Final Capstone Project
+# 137. Final Capstone Project
 
 <details>
   <summary> 137. Final Capstone Project </summary>
@@ -17,4 +17,4 @@
 
 ---
 
-[Previous](./136_Receiving-Emails-with-Python.md) | [Next]()
+[Previous](./136_Receiving-Emails-with-Python.md) | [Next](./138_Advanced-Numbers.md)

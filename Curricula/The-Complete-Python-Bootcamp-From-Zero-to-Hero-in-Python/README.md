@@ -257,13 +257,13 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 20: Advanced Python Objects and Data Structures </summary>
 
-  -   [138. Advanced Numbers](contents)
-  -   [139. Advanced Strings](contents) 
-  -   [140. Advanced Sets](contents)    
-  -   [141. Advanced Dictionaries](contents)    
-  -   [142. Advanced Lists](contents)    
-  -   [143. Advanced Python Objects Assessment Test](contents)    
-  -   [144. Advanced Python Objects Test - Solutions](contents)    
+  -   [138. Advanced Numbers](contents/138_Advanced-Numbers.md)
+  -   [139. Advanced Strings](contents/139_Advanced-Strings.md) 
+  -   [140. Advanced Sets](contents/140_Advanced-Sets.md)    
+  -   [141. Advanced Dictionaries](contents/141_Advanced-Dictionaries.md)    
+  -   [142. Advanced Lists](contents/142_Advanced-Lists.md)    
+  -   [143. Advanced Python Objects Assessment Test](contents/143_Advanced-Python-Objects-Assessment-Test.md)    
+  -   [144. Advanced Python Objects Test - Solutions](contents/144_Advanced-Python-Objects-Test-Solutions.md)    
 </details>
 
 <details>
