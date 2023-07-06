@@ -224,8 +224,8 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 16: Working with Images with Python </summary>
 
-  -   [125. Introduction to Images with Python](contents)
-  -   [126. Working with Images with Python](contents) 
+  -   [125. Introduction to Images with Python](contents/125_Introduction-to-Images-with-Python.md)
+  -   [126. Working with Images with Python](contents/126_Working-with-Images-with-Python.md) 
   -   [127. Python Image Exercises - Overview](contents) 
   -   [128. Python Image Exercises - Solution](contents)   
 </details>

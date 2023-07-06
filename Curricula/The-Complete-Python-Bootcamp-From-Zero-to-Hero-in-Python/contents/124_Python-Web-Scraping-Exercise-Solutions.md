@@ -3,7 +3,7 @@
 <details>
   <summary> 124. Python Web Scraping - Exercise Solutions </summary>
 
--   [Notebook: /02-Web-Scraping-Exercise-Solutions.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/13-Web-Scraping/02-Web-Scraping-Exercise-Solutions.ipynb)
+-   [Notebook: 02-Web-Scraping-Exercise-Solutions.ipynb](https://github.com/BloomTech-DS/Complete-Python-3-Bootcamp/blob/master/13-Web-Scraping/02-Web-Scraping-Exercise-Solutions.ipynb)
 
 -   [Codebase: 01_web_scraping_exercises.py](../../../codebase/python-camp/13-Web-Scraping/01_web_scraping_exercises.py)
 
@@ -18,4 +18,4 @@
 
 ---
 
-[Previous](./123_Python-Web-Scraping-Exercise-Overview.md) | [Next]()
+[Previous](./123_Python-Web-Scraping-Exercise-Overview.md) | [Next](./125_Introduction-to-Images-with-Python.md)
