@@ -251,7 +251,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 19: Final Capstone Python Project </summary>
 
-  -   [137. Final Capstone Project](contents)    
+  -   [137. Final Capstone Project](contents/137_Final-Capstone-Project.md)    
 </details>
 
 <details>
