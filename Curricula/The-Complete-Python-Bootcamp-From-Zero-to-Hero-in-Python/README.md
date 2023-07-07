@@ -274,8 +274,8 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   -   [147. Interact Functionality with GUIs](contents/147_Interact-Functionality-with-GUIs.md)    
   -   [148. GUI Widget Basics](contents/148_GUI-Widget-Basics.md)    
   -   [149. List of Possible Widgets](contents/149_List-of-Possible-Widgets.md)    
-  -   [150. Widget Styling and Layouts](contents)    
-  -   [151. Example of what a Widget can do!](contents)    
+  -   [150. Widget Styling and Layouts](contents/150_Widget-Styling-and-Layouts.md)    
+  -   [151. Example of what a Widget can do!](contents/151_Example-of-what-a-Widget-can-do.md)    
 </details>
 
 <details>
