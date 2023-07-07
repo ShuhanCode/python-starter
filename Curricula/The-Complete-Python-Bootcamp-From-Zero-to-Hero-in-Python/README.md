@@ -289,7 +289,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 23: BONUS SECTION: THANK YOU! </summary>
 
-  -   [155. BONUS LECTURE](contents)
+  -   [155. BONUS LECTURE](contents/155_BONUS-LECTURE.md)
  </details>
 
 ##  Requirements
