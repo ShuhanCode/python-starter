@@ -22,10 +22,26 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 27 sections • 198 lectures • 31h 54m total length
 
 <details>
-  <summary> Section 1: Course Overview </summary>
+  <summary> Section 1: Course Introduction </summary>
 
-  -   [1. ]()
-  -   [2. ]()  
+  -   [1. Introduction](1_Introduction.md)
+  -   [2. Course Overview Don't Skip this Lecture!](2_Course-Overview-Don't-Skip-this-Lecture!.md)  
+  -   [3. FAQ - Frequently Asked Questions](3_FAQ-Frequently-Asked-Questions.md)  
+  -   [4. Course Set-Up and Installation](4_Course-Set-Up-and-Installation.md)  
+  -   [5. Notes on Updates Versions of Django](5_Notes-on-Updates-Versions-of-Django.md)  
+</details>
+
+<details>
+  <summary> Section 2: Front-End Introduction </summary>
+
+  -   [6. ]()  
+</details>
+
+<details>
+  <summary> Section 2: Front-End Introduction </summary>
+
+  -   [7. ]()  
+  -   [8. ]()  
 </details>
 
 
