@@ -281,9 +281,9 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 22: APPENDIX: OLDER PYTHON 2 MATERIAL </summary>
 
-  -   [152. Objects and Data Structures Assessment - Solutions](contents)
-  -   [153. Comparison Operators](contents) 
-  -   [154. Chained Comparison Operators](contents)  
+  -   [152. Objects and Data Structures Assessment - Solutions](contents/152_Objects-and-Data-Structures-Assessment-Solutions.md)
+  -   [153. Comparison Operators](contents/153_Comparison-Operators.md) 
+  -   [154. Chained Comparison Operators](contents/154_Chained-Comparison-Operators.md)  
 </details>
 
 <details>

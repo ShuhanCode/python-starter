@@ -17,4 +17,4 @@
 
 ---
 
-[Previous](./150_Widget-Styling-and-Layouts.md) | [Next]()
+[Previous](./150_Widget-Styling-and-Layouts.md) | [Next](./152_Objects-and-Data-Structures-Assessment-Solutions.md)
