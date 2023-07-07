@@ -269,7 +269,7 @@ Learn Python like a Professional Start from the basics and go all the way to cre
 <details>
   <summary> Section 21: Bonus Material - Introduction to GUIs </summary>
 
-  -   [145. Introduction to GUIs](contents)
+  -   [145. Introduction to GUIs](contents/145_Introduction-to-GUIs.md)
   -   [146. Quick note about ipywidgets](contents) 
   -   [147. Interact Functionality with GUIs](contents)    
   -   [148. GUI Widget Basics](contents)    

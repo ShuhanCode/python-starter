@@ -17,4 +17,4 @@
 
 ---
 
-[Previous](./143_Advanced-Python-Objects-Assessment-Test.md) | [Next]()
+[Previous](./143_Advanced-Python-Objects-Assessment-Test.md) | [Next](./145_Introduction-to-GUIs.md)
