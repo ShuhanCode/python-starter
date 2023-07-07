@@ -2,6 +2,8 @@
 
 - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/#instructor-1)
 
+- [Shayhowe: Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+
 Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!
 
 ##  What you'll learn
