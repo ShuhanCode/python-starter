@@ -34,14 +34,27 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 2: Front-End Introduction </summary>
 
-  -   [6. What is the Web?](./6_What-is-the-Web%3F.md)  
+  -   [6. What is the Web?](6_What-is-the-Web%3F.md)  
 </details>
 
 <details>
-  <summary> Section 2: Front-End Introduction </summary>
+  <summary> Section 3: HTML Level One - Basics </summary>
 
-  -   [7. ]()  
-  -   [8. ]()  
+  -   [7.  HTML Level One Introduction](7_HTML-Level-One-Introduction.md)  
+  -   [8.  HTML Part One Basics](8_HTML-Part-One-Basics.md)  
+  -   [9.  HTML Level One - Part Two -Basic Tagging](9_HTML-Level-One-Part-Two-Basic-Tagging.md)  
+  -   [10. HTML Level One -Part Three - Lists](10_HTML-Level-One-Part-Three-Lists.md)  
+  -   [11. HTML Level One -Part Four - Divs and Spans](11_HTML-Level-One-Part-Four-Divs-and-Spans.md)  
+  -   [12. HTML Level One - Part Five - Attributes](12_HTML-Level-One-Part-Five-Attributes.md)  
+  -   [13. HTML Level One Assessment - Overview](13_HTML-Level-One-Assessment-Overview.md)  
+  -   [14. HTML Level One Assessment Solutions](14_HTML-Level-One-Assessment-Solutions.md)  
+</details>
+
+<details>
+  <summary> Section 4: HTML Level Two - Advanced </summary>
+
+  -   [15. ]()  
+  -   [16. ]()  
 </details>
 
 
