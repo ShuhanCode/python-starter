@@ -18,18 +18,18 @@ Learn data structures and algorithms with Python. Solve technical questions by G
 <details>
   <summary>Section 1: Introduction</summary>
 
-  1.  [Introduction](.)
-  1.  [Course Outline](.)  
+  -   [1. Introduction](.)
+  -   [2. Course Outline](.)  
 </details>
 
 <details>
   <summary>Section 2: Big O Notation</summary>
 
-  3.  [Big O Introduction](.)
-  1.  [What is Big O?](.)  
-  1.  [Big O Code Examples](.)  
-  1.  [Space Complexity](.)  
-  1.  [Big O GitHub Link](.)  
+  -   [3. Big O Introduction](.)
+  -   [4. What is Big O?](.)  
+  -   [5. Big O Code Examples](.)  
+  -   [6. Space Complexity](.)  
+  -   [7. Big O GitHub Link](.)  
 </details>
 
 <details>
