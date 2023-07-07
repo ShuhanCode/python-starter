@@ -10,4 +10,4 @@
 
 ---
 
-[Previous](./5_Notes-on-Updates-Versions-of-Django.md) | [Next]()
+[Previous](./5_Notes-on-Updates-Versions-of-Django.md) | [Next](./7_HTML-Level-One-Introduction.md)
