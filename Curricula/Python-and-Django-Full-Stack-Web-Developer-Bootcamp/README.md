@@ -34,7 +34,7 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 2: Front-End Introduction </summary>
 
-  -   [6. ]()  
+  -   [6. What is the Web?](./6_What-is-the-Web%3F.md)  
 </details>
 
 <details>
