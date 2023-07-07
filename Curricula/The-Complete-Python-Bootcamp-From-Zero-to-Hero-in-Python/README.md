@@ -270,10 +270,10 @@ Learn Python like a Professional Start from the basics and go all the way to cre
   <summary> Section 21: Bonus Material - Introduction to GUIs </summary>
 
   -   [145. Introduction to GUIs](contents/145_Introduction-to-GUIs.md)
-  -   [146. Quick note about ipywidgets](contents) 
-  -   [147. Interact Functionality with GUIs](contents)    
-  -   [148. GUI Widget Basics](contents)    
-  -   [149. List of Possible Widgets](contents)    
+  -   [146. Quick note about ipywidgets](contents/146_Quick-note-about-ipywidgets.md) 
+  -   [147. Interact Functionality with GUIs](contents/147_Interact-Functionality-with-GUIs.md)    
+  -   [148. GUI Widget Basics](contents/148_GUI-Widget-Basics.md)    
+  -   [149. List of Possible Widgets](contents/149_List-of-Possible-Widgets.md)    
   -   [150. Widget Styling and Layouts](contents)    
   -   [151. Example of what a Widget can do!](contents)    
 </details>

@@ -26,4 +26,4 @@ If you want to build web apps, you'll probably want to avoid Python as the GUI a
 
 ---
 
-[Previous](./144_Advanced-Python-Objects-Test-Solutions.md) | [Next]()
+[Previous](./144_Advanced-Python-Objects-Test-Solutions.md) | [Next](./146_Quick-note-about-ipywidgets.md)
