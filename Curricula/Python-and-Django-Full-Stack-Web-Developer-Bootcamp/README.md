@@ -55,8 +55,37 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 4: HTML Level Two - Advanced </summary>
 
-  -   [15. ]()  
-  -   [16. ]()  
+  -   [15. HTML Level Two Introduction](15_HTML-Level-Two-Introduction.md)  
+  -   [16. HTML Level Two - Part One - Tables](16_HTML-Level-Two-Part-One-Tables.md)  
+  -   [17. HTML Level Two - Part Two Tables Quiz](17_HTML-Level-Two-Part-Two-Tables-Quiz.md)  
+  -   [18. HTML Level Two - Part Three Table Quiz Solutions](18_HTML-Level-Two-Part-Three-Table-Quiz-Solutions.md)  
+  -   [19. HTML Level Two Part Four - Forms Basics](19_HTML-Level-Two-Part-Four-Forms-Basics.md)  
+  -   [20. HTML Level Two - Part Five Forms and Labels](20_HTML-Level-Two-Part-Five-Forms-and-Labels.md)  
+  -   [21. HTML Level Two - Part Six Forms and Selections](21_HTML-Level-Two-Part-Six-Forms-and-Selections.md)  
+  -   [22. HTML Level Two - Assessment](22_HTML-Level-Two-Assessment.md)  
+  -   [23. HTML Level Two - Assessment Solutions](23_HTML-Level-Two-Assessment-Solutions.md)  
+</details>
+
+<details>
+  <summary> Section 5: CSS Level One - Basic </summary>
+
+  -   [24. ]()  
+  -   [25. ]()  
+</details>
+
+<details>
+  <summary> Section 6: CSS Level Two - Advanced </summary>
+
+  -   [33. ]()  
+  -   [34. ]()  
+</details>
+
+<details>
+  <summary> Section 7: Capstone Project One </summary>
+
+  -   [39. ]()  
+  -   [40. ]()  
+  -   [41. ]()  
 </details>
 
 
