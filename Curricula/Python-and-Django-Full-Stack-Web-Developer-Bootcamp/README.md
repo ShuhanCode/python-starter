@@ -69,8 +69,15 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 5: CSS Level One - Basic </summary>
 
-  -   [24. ]()  
-  -   [25. ]()  
+  -   [24. CSS Level One Intro](24_CSS-Level-One-Intro.md)  
+  -   [25. CSS Level One Part One](25_CSS-Level-One-Part-One.md)  
+  -   [26. CSS Level One Part Two](26_CSS-Level-One-Part-Two.md)  
+  -   [27. Quick Note about next lecture](27_Quick-Note-about-next-lecture.md)  
+  -   [28. CSS Level One Part Three](28_CSS-Level-One-Part-three.md)  
+  -   [29. CSS Level One Part Four](29_CSS-Level-One-Part-Four.md)  
+  -   [30. CSS Level One Part Five](30_CSS-Level-One-Part-Five.md)  
+  -   [31. CSS Level One Assessment](31_CSS-Level-One-Assessment.md)  
+  -   [32. CSS Level One Assessment Solutions](32_CSS-Level-One-Assessment-Solutions.md)  
 </details>
 
 <details>
@@ -78,6 +85,10 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 
   -   [33. ]()  
   -   [34. ]()  
+  -   [35. ]()  
+  -   [36. ]()  
+  -   [37. ]()  
+  -   [38. ]()  
 </details>
 
 <details>
