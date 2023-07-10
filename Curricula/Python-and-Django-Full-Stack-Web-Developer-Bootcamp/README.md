@@ -83,12 +83,12 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 6: CSS Level Two - Advanced </summary>
 
-  -   [33. ]()  
-  -   [34. ]()  
-  -   [35. ]()  
-  -   [36. ]()  
-  -   [37. ]()  
-  -   [38. ]()  
+  -   [33. CSS Level Two Introduction](33_CSS-Level-Two-Introduction.md)  
+  -   [34. CSS Level Two - Part One Fonts](34_CSS-Level-Two-Part-One-Fonts.md)  
+  -   [35. CSS Level Two - Part One (Fonts) Continued](35_CSS-Level-Two-Part-One-Fonts-Continued.md)  
+  -   [36. CSS Level Two - Part Two Box Model](36_CSS-Level-Two-Part-Two-Box-Model.md)  
+  -   [37. CSS Level Two Spectrum Project Overview](37_CSS-Level-Two-Spectrum-Project-Overview.md)  
+  -   [38. CSS Level Two Spectrum Project Solutions](38_CSS-Level-Two-Spectrum-Project-Solutions.md)  
 </details>
 
 <details>
@@ -97,6 +97,60 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
   -   [39. ]()  
   -   [40. ]()  
   -   [41. ]()  
+</details>
+
+<details>
+  <summary> Section 8: Bootstrap Overview </summary>
+
+  -   [42. ]()  
+  -   [43. ]()  
+  -   [44. ]()  
+</details>
+
+<details>
+  <summary> Section 9: Javascript Level One - Basic </summary>
+
+  -   [49. ]()  
+  -   [50. ]()  
+  -   [51. ]()  
+</details>
+
+<details>
+  <summary> Section 10: Javascript Level Two </summary>
+
+  -   [62. ]()  
+  -   [63. ]()  
+  -   [64. ]()  
+</details>
+
+<details>
+  <summary> Section 11: Document Object Model </summary>
+
+  -   [73. ]()  
+  -   [74. ]()  
+  -   [75. ]()  
+</details>
+
+<details>
+  <summary> Section 12: jQuery </summary>
+
+  -   [80. ]()  
+  -   [81. ]()  
+  -   [82. ]()  
+</details>
+
+<details>
+  <summary> Section 13: Back-End Intro </summary>
+
+  -   [87. ]()  
+  -   [88. ]()  
+</details>
+
+<details>
+  <summary> Section 14: Python Level One </summary>
+
+  -   [89. ]()  
+  -   [90. ]()  
 </details>
 
 

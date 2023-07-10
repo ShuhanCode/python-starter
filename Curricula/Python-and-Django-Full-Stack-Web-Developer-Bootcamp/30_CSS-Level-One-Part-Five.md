@@ -1,5 +1,7 @@
 # 30. CSS Level One Part Five
 
+-   [Codebase: Part5.html](../../codebase/python-django/CSS_Level_One/Part5.html)
+
 -   [Codebase: Part5_master.css](../../codebase/python-django/CSS_Level_One/Part5_master.css)
 
 ##  Resources for this lecture
