@@ -94,9 +94,9 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 7: Capstone Project One </summary>
 
-  -   [39. ]()  
-  -   [40. ]()  
-  -   [41. ]()  
+  -   [39. Capstone Project One Overview](39_Capstone-Project-One-Overview.md))  
+  -   [40. Capstone Project One Solutions](40_Capstone-Project-One-Solutions.md)  
+  -   [41. Capstone Project One Solutions (Continued)](41_Capstone-Project-One-Solutions-Continued.md)  
 </details>
 
 <details>

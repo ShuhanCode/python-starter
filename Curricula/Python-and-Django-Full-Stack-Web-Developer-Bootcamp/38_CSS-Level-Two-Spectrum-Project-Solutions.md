@@ -12,4 +12,4 @@
 
 ---
 
-[Previous](./37_CSS-Level-Two-Spectrum-Project-Overview.md) | [Next]()
+[Previous](./37_CSS-Level-Two-Spectrum-Project-Overview.md) | [Next](./39_Capstone-Project-One-Overview.md)
