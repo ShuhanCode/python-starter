@@ -114,9 +114,19 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 9: Javascript Level One - Basic </summary>
 
-  -   [49. ]()  
-  -   [50. ]()  
-  -   [51. ]()  
+  -   [49. JS Level One Introduction](49_JS-Level-One-Introduction.md)  
+  -   [50. JS Level One - Part One Basics](50_JS-Level-One-Part-One-Basics.md)  
+  -   [51. JS Level One - Part Two Connecting Javascript](51_JS-Level-One-Part-Two-Connecting-Javascript.md)  
+  -   [52. JS Level One - Part Three Exercise](52_JS-Level-One-Part-Three-Exercise.md)  
+  -   [53. JS Level One - Part Three Solutions](53_JS-Level-One-Part-Three-Solutions.md)  
+  -   [54. JS Level One - Part Four - Operators](54_JS-Level-One-Part-Four-Operators.md)  
+  -   [55. JS Level One - Part Five - Control Flow](55_JS-Level-One-Part-Five-Control-Flow.md)  
+  -   [56. JS Level One - Part Six While Loops](56_JS-Level-One-Part-Six-While-Loops.md)  
+  -   [57. JS Level One - Part Seven For Loops](57_JS-Level-One-Part-Seven-For-Loops.md)  
+  -   [58. JS Level One Part Eight Loop Exercises](58_JS-Level-One-Part-Eight-Loop-Exercises.md)  
+  -   [59. JS Level One - Part Eight Solutions](59_JS-Level-One-Part-Eight-Solutions.md)  
+  -   [60. JS Level One - Project Overview](60_JS-Level-One-Project-Overview.md)  
+  -   [61. JS Level One - Part Nine Project Solutions](61_JS-Level-One-Part-Nine-Project-Solutions.md)  
 </details>
 
 <details>
