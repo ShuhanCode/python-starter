@@ -2,7 +2,7 @@
 // We will be running all of these in the Google Chrome Console to start off.
 
 // Show a prompt
-alert("Hello World.")
+// alert("Hello World.")
 
 ////////////////////////
 // Basic Data Types ///
@@ -90,11 +90,11 @@ null
 // Let's see some examples
 var bankAccount = 100;
 var deposit = 50;
-var total = account + deposit;
+var total = bankAccount + deposit;
 
 var greeting = "Welcome back: ";
 var name = "Jose";
-alert(greeting+name)
+// alert(greeting+name)
 
 // undefined (created but not defined)
 var myvariable
@@ -107,7 +107,7 @@ var bonus = null
 ///////////////////////////////
 
 // Alert Pop-up
-alert("hello world")
+// alert("hello world")
 
 // Output to console
 console.log("Hello world")
