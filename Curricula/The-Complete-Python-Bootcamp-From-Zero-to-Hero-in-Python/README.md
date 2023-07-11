@@ -359,6 +359,7 @@ This course comes with a **30 day money back guarantee!** If you are not satisfi
 -   [Python Django, Aiohttp Workshop: Cooking Secret Note service](https://www.udemy.com/course/python-django-workshop-cooking-secret-note-service/#reviews)
 -   [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp)
 -   [REST APIs with Flask and Python in 2023](https://www.udemy.com/course/rest-api-flask-and-python/)
+-   [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 -   [Python & Machine Learning for Financial Analysis](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions)
 
 ## Further step

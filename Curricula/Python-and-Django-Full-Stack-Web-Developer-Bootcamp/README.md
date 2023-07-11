@@ -148,9 +148,13 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 11: Document Object Model </summary>
 
-  -   [73. ]()  
-  -   [74. ]()  
-  -   [75. ]()  
+  -   [73. Document Object Model Introduction](73_Document-Object-Model-Introduction.md)  
+  -   [74. Document Object Model - Part One - DOM Interaction](74_Document-Object-Model-Part-One-DOM-Interaction.md)  
+  -   [75. Document Object Model Part Two Content Interaction](75_Document-Object-Model-Part-Two-Content-Interaction.md)  
+  -   [76. Document Object Model Part Three - Events](76_Document-Object-Model-Part-Three-Events.md)  
+  -   [77. Document Object Model - Game Project Overview](77_Document-Object-Model-Game-Project-Overview.md)  
+  -   [78. DOM Game Project Solutions - Part One](78_DOM-Game-Project-Solutions-Part-One.md)  
+  -   [79. DOM Game Project Solutions - Part Two](79_DOM-Game-Project-Solutions-Part-Two.md)  
 </details>
 
 <details>

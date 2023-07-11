@@ -11,4 +11,4 @@
 
 ---
 
-[Previous](./71_JS-Level-Two-Part-Six-Object-Exercises.md) | [Next]()
+[Previous](./71_JS-Level-Two-Part-Six-Object-Exercises.md) | [Next](./73_Document-Object-Model-Introduction.md)
