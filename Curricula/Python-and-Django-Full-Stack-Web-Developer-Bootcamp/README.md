@@ -179,8 +179,63 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 14: Python Level One </summary>
 
-  -   [89. ]()  
-  -   [90. ]()  
+  -   [89.  Introduction to Python Level One](89_Introduction-to-Python-Level-One.md)  
+  -   [90.  Python Installation and Set-Up](90_Python-Installation-and-Set-Up.md)  
+  -   [91.  Part One Numbers](91_Part-One-Numbers.md)  
+  -   [92.  Part Two Strings](92_Part-Two-Strings.md)  
+  -   [93.  Part Three Lists](93_Part-Three-Lists.md)  
+  -   [94.  Part Four Dictionaries](94_Part-Four-Dictionaries.md)  
+  -   [95.  Part 5 - Tuples, Sets, and Booleans](95_Part-5-Tuples-Sets-and-Booleans.md)  
+  -   [96.  Part 6 - Exercise Overview](96_Part-6-Exercise-Overview.md)  
+  -   [97.  Part 6 - Exercise Solutions](97_Part-6-Exercise-Solutions.md)  
+  -   [98.  Part 7 - Control Flow](98_Part-7-Control-Flow.md)  
+  -   [99.  Part Eight Functions](99_Part-Eight-Functions.md)  
+  -   [100. Part Nine Function Exercises](100_Part-Nine-Function-Exercises.md)  
+  -   [101. Function Exercises Solutions](101_Function-Exercises-Solutions.md)  
+  -   [102. Part Ten Simple Game Project Overview](102_Part-Ten-Simple-Game-Project-Overview.md)  
+  -   [103. Simple Game Project Solutions](103_Simple-Game-Project-Solutions.md)  
+</details>
+
+<details>
+  <summary> Section 15: Python Level Two </summary>
+
+  -   [104. ]()  
+  -   [105. ]()  
+</details>
+
+<details>
+  <summary> Section 16: Django Level One - Basics </summary>
+
+  -   [116. ]()  
+  -   [117. ]()  
+</details>
+
+<details>
+  <summary> Section 17: Django Level Two </summary>
+
+  -   [126. ]()  
+  -   [127. ]()  
+</details>
+
+<details>
+  <summary> Section 18: Django Level Three </summary>
+
+  -   [133. ]()  
+  -   [134. ]()  
+</details>
+
+<details>
+  <summary> Section 19: Django Level Four </summary>
+
+  -   [139. ]()  
+  -   [140. ]()  
+</details>
+
+<details>
+  <summary> Section 20: Django Level Five </summary>
+
+  -   [147. ]()  
+  -   [148. ]()  
 </details>
 
 
