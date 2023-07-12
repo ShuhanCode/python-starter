@@ -172,8 +172,8 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 13: Back-End Intro </summary>
 
-  -   [87. ]()  
-  -   [88. ]()  
+  -   [87. Introduction to the Back-End](87_Introduction-to-the-Back-End.md)  
+  -   [88. Command Line and Terminal Overview](88_Command-Line-and-Terminal-Overview.md)  
 </details>
 
 <details>
