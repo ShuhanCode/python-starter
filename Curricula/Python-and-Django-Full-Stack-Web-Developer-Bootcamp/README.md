@@ -160,9 +160,13 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 12: jQuery </summary>
 
-  -   [80. ]()  
-  -   [81. ]()  
-  -   [82. ]()  
+  -   [80. jQuery Introduction](80_jQuery-Introduction.md)  
+  -   [81. jQuery Part One Basics](81_jQuery-Part-One-Basics.md)  
+  -   [82. jQuery Part Two Events](82_jQuery-Part-Two-Events.md)  
+  -   [83. jQuery Project Overview](83_jQuery-Project-Overview.md)  
+  -   [84. jQuery Project Solutions Part One](84_jQuery-Project-Solutions-Part-One.md)  
+  -   [85. jQuery Project Solutions Part Two](85_jQuery-Project-Solutions-Part-Two.md)  
+  -   [86. jQuery Project Solutions Part Three](86_jQuery-Project-Solutions-Part-Three.md)  
 </details>
 
 <details>

@@ -16,4 +16,4 @@
 
 ---
 
-[Previous](./78_DOM-Game-Project-Solutions-Part-One.md) | [Next]()
+[Previous](./78_DOM-Game-Project-Solutions-Part-One.md) | [Next](./80_jQuery-Introduction.md)
