@@ -199,8 +199,18 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 15: Python Level Two </summary>
 
-  -   [104. ]()  
-  -   [105. ]()  
+  -   [104. Introduction to Python Level Two](104_Introduction-to-Python-Level-Two.md)  
+  -   [105. Scope](105_Scope.md)  
+  -   [106. Object Oriented Programming - Part One](106_Object-Oriented-Programming-Part-One.md)  
+  -   [107. Object Oriented Programming - Part Two](107_Object-Oriented-Programming-Part-Two.md)  
+  -   [108. Object Oriented Programming - Part Three](108_Object-Oriented-Programming-Part-Three.md)  
+  -   [109. OOP Project](109_OOP-Project.md)  
+  -   [110. OOP Project Solutions](110_OOP-Project-Solutions.md)  
+  -   [111. Errors and Exceptions](111_Errors-and-Exceptions.md)  
+  -   [112. Regular Expressions](112_Regular-Expressions.md)  
+  -   [113. Modules and Packages](113_Modules-and-Packages.md)  
+  -   [114. Decorators](114_Decorators.md)  
+  -   [115. Name and Main](115_Name-and-Main.md)  
 </details>
 
 <details>
