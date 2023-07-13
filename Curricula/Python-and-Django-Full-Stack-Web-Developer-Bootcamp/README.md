@@ -4,6 +4,10 @@
 
 - [Shayhowe: Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
+- [DJANGO_COURSE_1.xx.zip](https://python-ds.s3.us-west-1.amazonaws.com/Python-and-Django-Full-Stack-Web-Developer-Bootcamp/zipfolder/DJANGO_COURSE_1.xx.zip)
+
+- [DJANGO_COURSE_2.xx.zip](https://python-ds.s3.us-west-1.amazonaws.com/Python-and-Django-Full-Stack-Web-Developer-Bootcamp/zipfolder/DJANGO_COURSE_2.xx.zip)
+
 Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!
 
 ##  What you'll learn
@@ -216,8 +220,16 @@ Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Pyth
 <details>
   <summary> Section 16: Django Level One - Basics </summary>
 
-  -   [116. ]()  
-  -   [117. ]()  
+  -   [116. Django Level One - Part One - Django Setup](116_Django-Level-One-Part-One-Django-Setup.md)  
+  -   [117. Django Level One - Part Two - Django Project](117_Django-Level-One-Part-Two-Django-Project.md)  
+  -   [118. Django Level One - Part Three - Django Application](118_Django-Level-One-Part-Three-Django-Application.md)  
+  -   [119. Django Level One - Part Four - Challenge Task](119_Django-Level-One-Part-Four-Challenge-Task.md)  
+  -   [120. Django Level One - Part Five - Challenge Solutions](120_Django-Level-One-Part-Five-Challenge-Solutions.md)  
+  -   [121. Django Level One - Part Six - URL Mappings](121_Django-Level-One-Part-Six-URL%20Mappings.md)  
+  -   [122. Django Level One - Part Seven - Templates](122_Django-Level-One-Part-Seven-Templates.md)  
+  -   [123. Django Level One - Part Eight Templates Challenge](123_Django-Level-One-Part-Eight-Templates-Challenge.md)  
+  -   [124. Django Level One - Part Nine - Templates Solutions](124_Django-Level-One-Part-Nine-Templates-Solutions.md)  
+  -   [125. Django Level One - Part Ten - Static Files](125_Django-Level-One-Part-Ten-Static-Files.md)  
 </details>
 
 <details>
