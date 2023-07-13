@@ -1,6 +1,5 @@
 # PYTHON 
 
-
 ## Pre-Course Work
 
 -   [Python Course - Learn Python Turtle Module by Doing War Game](https://www.udemy.com/course/python-course-learn-python-turtle-module-by-doing-war-game/)
@@ -10,6 +9,8 @@
 -   [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 -   [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+
+-   [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 
 ## Courses
 
