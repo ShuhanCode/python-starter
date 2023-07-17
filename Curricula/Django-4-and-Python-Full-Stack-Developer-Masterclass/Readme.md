@@ -44,10 +44,10 @@ Learn the entire technology stack to create beautiful and responsive websites wi
 <details>
   <summary> Section 9: Django - Views, Routing, and URLs </summary>
 
-  -   [48. ]()
-  -   [49. ]()    
-  -   [50. ]()    
-  -   [51. ]()    
+  -   [48. Introduction to URLs, Views, and Routing](48_Introduction-to-URLs-Views-and-Routing.md)
+  -   [49. Project Application Exercise](49_Project-Application-Exercise.md)    
+  -   [50. Project Application Exercise - Solution](50_Project-Application-Exercise-Solution.md)    
+  -   [51. Django - Views and URLs Overview](51_Django-Views-and-URLs-Overview.md)    
   -   [52. ]()    
   -   [53. ]()    
   -   [54. ]()    
@@ -63,6 +63,47 @@ Learn the entire technology stack to create beautiful and responsive websites wi
   -   [59. ]()    
 </details>
 
+<details>
+  <summary> Section 11: Django - Models, Database, and Queries </summary>
+
+  -   [69. ]()
+  -   [70. ]()    
+</details>
+
+<details>
+  <summary> Section 12: Django Admin </summary>
+
+  -   [82. ]()
+  -   [83. ]()    
+</details>
+
+<details>
+  <summary> Section 13: Django Forms </summary>
+
+  -   [87. ]()
+  -   [88. ]()    
+</details>
+
+<details>
+  <summary> Section 14: Django Class Based Views </summary>
+
+  -   [94.  ]()
+  -   [95.  ]()    
+</details>
+
+<details>
+  <summary> Section 15: User Authentication and Sessions </summary>
+
+  -   [102. ]()
+  -   [103. ]()    
+</details>
+
+<details>
+  <summary> Section 16: Django Linode Deployment </summary>
+
+  -   [111. ]()
+  -   [112. ]()    
+</details>
 
 ##  Requirements
 

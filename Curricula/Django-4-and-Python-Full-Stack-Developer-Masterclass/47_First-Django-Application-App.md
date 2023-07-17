@@ -5,7 +5,7 @@
 
 <p align="center" >
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App.png" width="90%" > 
-    <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_17.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_2.png" width="90%" > 
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_3.png" width="90%" > 
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_4.png" width="90%" > 
     <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_5.png" width="90%" > 
@@ -56,41 +56,45 @@ def index(request):
     return HttpResponse("HELLO THIS IS A VIEW INSIDE MY_APP")
 ```
 
-- mapping the view to the url in the `my_site/urls.py`
+- add the `urls.py` file under `my_app`:  `my_app/url.py`
 
 ```python
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.index, name='index'), # /my_app --> PROJECT my_app/urls.py
+]
+```
+
+- mapping the view to the url in the PROJECT `urls.py` -- `my_site/urls.py`
+
+```python
+"""my_site URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/2.2/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+"""
 from django.contrib import admin
 from django.urls import path, include
 from my_app import views
 
 urlpatterns = [
-    path('', views.index, name="index"),
-    path('my_app/', include('my_app.urls')), # new  
+    # path('', views.index, name="index"),
+    path('my_app/', include('my_app.urls')), # /my_app --> my_app/urls.py 
     path('admin/', admin.site.urls),
 ]
 ```
-
--  add the `my_app` to the `my_site/settings.py`
-
-  ```python
-
-  ...
-
-  # Application definition
-
-  INSTALLED_APPS = [
-      'django.contrib.admin',
-      'django.contrib.auth',
-      'django.contrib.contenttypes',
-      'django.contrib.sessions',
-      'django.contrib.messages',
-      'django.contrib.staticfiles',
-      'my_app'
-  ]
-
-  ...
-
-  ```
 
 </details>
 
@@ -146,6 +150,33 @@ python3 manage.py runserver
 
 </p> 
 
+## Exploring urls path
+
+-  `my_site/urls.py`
+
+```python
+from django.contrib import admin
+from django.urls import path, include
+from my_app import views
+
+urlpatterns = [
+    # path('', views.index, name="index"), # NOTE: comment out this line
+    path('my_app/', include('my_app.urls')),  
+    path('admin/', admin.site.urls),
+]
+```
+
+```
+python3 manage.py runserver
+```
+
+<p align="center" >
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_003.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_004.png" width="90%" > 
+    <img src="https://python-ds.s3.us-west-1.amazonaws.com/Django-4-and-Python-Full-Stack-Developer-Masterclass/images/47_First-Django-Application-App_005.png" width="90%" > 
+
+</p> 
+
 </details>
 
 <details>
@@ -165,4 +196,4 @@ python3 manage.py runserver
 
 ---
 
-[Previous](./46_First-Django-Project.md) | [Next]()
+[Previous](./46_First-Django-Project.md) | [Next](./48_Introduction-to-URLs-Views-and-Routing.md)
