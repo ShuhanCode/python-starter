@@ -28,17 +28,17 @@ Learn the entire technology stack to create beautiful and responsive websites wi
 <details>
   <summary> Section 1: Welcome, and FAQ </summary>
 
-  -   [1. Introduction, Welcome, and FAQ](./1_Introduction-Welcome-and-FAQ.md)
+  -   [1. Introduction, Welcome, and FAQ](1_Introduction-Welcome-and-FAQ.md)
   -   [2. ]()    
 </details>
 
 <details>
   <summary> Section 8: Introduction to Django Framework </summary>
 
-  -   [44. ]()
-  -   [45. ]()    
-  -   [46. ]()    
-  -   [47. ]()    
+  -   [44. Introduction to Django Framework](44_Introduction-to-Django-Framework.md)
+  -   [45. How Django Works](45_How-Django-Works.md)    
+  -   [46. First Django Project](46_First-Django-Project.md)    
+  -   [47. First Django Application (App)](47_First-Django-Application-App.md)    
 </details>
 
 <details>
@@ -46,6 +46,21 @@ Learn the entire technology stack to create beautiful and responsive websites wi
 
   -   [48. ]()
   -   [49. ]()    
+  -   [50. ]()    
+  -   [51. ]()    
+  -   [52. ]()    
+  -   [53. ]()    
+  -   [54. ]()    
+  -   [55. ]()    
+  -   [56. ]()    
+  -   [57. ]()    
+</details>
+
+<details>
+  <summary> Section 10: Django - Templates </summary>
+
+  -   [58. ]()
+  -   [59. ]()    
 </details>
 
 
