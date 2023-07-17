@@ -28,7 +28,7 @@
 
 -   [Python and Django Full Stack Web Developer Bootcamp](Curricula/Python-and-Django-Full-Stack-Web-Developer-Bootcamp/README.md)
 
--   [Django 4 and Python Full-Stack Developer Masterclass](Curricula/Django-4-and-Python-Full-Stack-Developer-Masterclass/README.md)
+-   [Django 4 and Python Full-Stack Developer Masterclass](Curricula/Django-4-and-Python-Full-Stack-Developer-Masterclass/Readme.md)
 
 -   [Python Django, Aiohttp Workshop: Cooking Secret Note service](Curricula/Python-Django-Aiohttp-Workshop-Cooking-Secret-Note-service/README.md)
 
