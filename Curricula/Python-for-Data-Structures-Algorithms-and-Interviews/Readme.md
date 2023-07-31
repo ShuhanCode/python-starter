@@ -2,6 +2,8 @@
 
 - [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews)
 
+- [https://github.com/BloomTech-DS/Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/BloomTech-DS/Python-for-Algorithms--Data-Structures--and-Interviews)
+
 Get a kick start on your career and ace your coding interviews!
 
 ##  What you'll learn
@@ -116,26 +118,26 @@ Get a kick start on your career and ace your coding interviews!
 <details>
   <summary> Section 12: Array Sequences </summary>
 
-  -   [45. ]()
-  -   [46. ]()
-  -   [47. ]()
-  -   [48. ]()
-  -   [49. ]()
-  -   [50. ]()
-  -   [51. ]()
-  -   [52. ]()
-  -   [53. ]()
-  -   [54. ]()
-  -   [55. ]()
-  -   [56. ]()
-  -   [57. ]()
-  -   [58. ]()
-  -   [59. ]()
-  -   [60. ]()
-  -   [61. ]()
-  -   [62. ]()
-  -   [63. ]()
-  -   [64. ]()
+  -   [45. Introduction to Array Based Sequences](45_Introduction-to-Array-Based-Sequences.md)
+  -   [46. Low Level Arrays](46_Low-Level-Arrays.md)
+  -   [47. Dynamic Array](47_Dynamic-Array.md)
+  -   [48. Dynamic Array Excercise](48_Dynamic-Array-Excercise.md)
+  -   [49. Amortizatio](49_Amortization.md)
+  -   [50. Interview Problems - Arrays](50_Interview-Problems-Arrays.md)
+  -   [51. Anagram Check - Interview Problem](51_Anagram-Check-Interview-Problem.md)
+  -   [52. Anagram Check - Interview Problem - SOLUTION](52_Anagram-Check-Interview-Problem-SOLUTION.md)
+  -   [53. Array Pair Sum - Interview Problem](53_Array-Pair-Sum-Interview-Problem.md)
+  -   [54. Array Pair Sum - Interview Problem - SOLUTION](54_Array-Pair-Sum-Interview-Problem-SOLUTION.md)
+  -   [55. Find the Missing Element - Interview Problem](55_Find-the-Missing-Element-Interview-Problem.md)
+  -   [56. Find the Missing Element - Interview Problem - SOLUTION](56_Find-the-Missing-Element-Interview-Problem-SOLUTION.md)
+  -   [57. Largest Continuous Sum - Interview Problem](57_Largest-Continuous-Sum-Interview-Problem.md)
+  -   [58. Largest Continuous Sum - Interview Problem - SOLUTION](58_Largest-Continuous-Sum-Interview-Problem-SOLUTION.md)
+  -   [59. Sentence Reversal - Interview Problem](59_Sentence-Reversal-Interview-Problem.md)
+  -   [60. Sentence Reversal - Interview Problem - SOLUTION](60_Sentence-Reversal-Interview-Problem-SOLUTION.md)
+  -   [61. String Compression - Interview Problem](61_String-Compression-Interview-Problem.md)
+  -   [62. String Compression - Interview Problem - SOLUTION](62_String-Compression-Interview-Problem-SOLUTION.md)
+  -   [63. Unique Characters in a String - Interview Problem](63_Unique-Characters-in-a-String-Interview-Problem.md)
+  -   [64. Unique Characters in String - Interview Problem - SOLUTION](64_Unique-Characters-in-String-Interview-Problem-SOLUTION.md)
 </details>
 
 <details>
